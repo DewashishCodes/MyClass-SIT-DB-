@@ -1,11 +1,13 @@
 {
     "Freshman":{
-        "ENTC":{},
+       
+    },
+    "Sophomore":{
+         "ENTC":{},
         "CSE":{},
         "AIML":{},
         "RNA":{},
         "MECH":{},
         "CIVIL":{}
-    },
-    "Sophomore":{}
+    }
 }
