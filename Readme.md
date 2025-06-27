@@ -37,10 +37,12 @@ git clone https://github.com/YOUR_USERNAME/MyClass-SIT-DB-.git
 🔁 Replace YOUR_USERNAME with your actual GitHub username.
 
 Then move into the project folder:
-```cd MyClass-SIT-DB-
+```
+cd MyClass-SIT-DB-
 ```
 If you’re not in the folder, run:
-```cd path/to/MyClass-SIT-DB-
+```
+cd path/to/MyClass-SIT-DB-
 ```
 
 3. Create a New Branch for Your Work
@@ -68,7 +70,7 @@ git push origin data-entry-YOUR_NAME-June27
 
     Confirm that:
 
-    base repo = DewashishCodes/MyClass-SIT-DB-
+    base repo = DewashishCodes/MyClass-SIT-DB-<br>
     head repo = YOUR_USERNAME/MyClass-SIT-DB-
 
     Add a meaningful title and description.
