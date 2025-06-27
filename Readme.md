@@ -1,7 +1,7 @@
 Hi contributor, its so nice to see you actively contribute!
 Let me walk through the format we want you to create the database for MyClass@SIT:-
 
-The Hierarchy:
+The Hierarchy:<br>
 Freshman/Sophomore -> Branch -> Batch(eg:A2,B3,etc) -> Day of the week -> Timeslot -> Subject,Location,Faculty
 
 Please make sure to make changes to the database in exactly this hierarchial order. We have already sorted things out till the branch hierarchy level for you.
