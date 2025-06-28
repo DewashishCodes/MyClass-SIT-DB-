@@ -47,9 +47,6 @@ cd path/to/MyClass-SIT-DB-
 
 3. Create a New Branch for Your Work
 Always do contributions on a separate branch, not on main:
-```
-git checkout -b data-entry-YOUR_NAME-June27
-```
 
 4. Make your changes 
 
