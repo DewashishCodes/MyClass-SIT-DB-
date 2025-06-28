@@ -62,18 +62,20 @@ git push origin data-entry-YOUR_NAME-June27
 ```
 
 7. Create a pull request (PR)
+
+    IMP: create PR only in the Branch alloted to you.
     Go to your fork on GitHub.
     You’ll see a “Compare & pull request” button — click it. 
 
     Confirm that:
 
-    base repo = DewashishCodes/MyClass-SIT-DB-<br>
+    base repo = DewashishCodes/MyClass-SIT-DB-:branch_name
     head repo = YOUR_USERNAME/MyClass-SIT-DB-
 
     Add a meaningful title and description.
     Click “Create pull request”.
 
-8. Stay Updated with Main Repository
+9. Stay Updated with Main Repository
 ```
 # Only once: Add the main repo as upstream
 git remote add upstream https://github.com/DewashishCodes/MyClass-SIT-DB-.git
