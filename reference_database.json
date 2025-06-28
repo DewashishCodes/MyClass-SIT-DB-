@@ -1,0 +1,1648 @@
+
+
+ 
+
+{
+  "Freshman": {
+    "ENTC": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "FEEEL", "location": "BEEE LAB 3rd floor", "faculty": "Sangeeta Pant" },
+          "09:45-10:45": { "subject": "FEEEL", "location": "BEEE LAB 3rd floor", "faculty": "Sangeeta Pant" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108", "faculty": "Pritesh Shah" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "C108", "faculty": "Shekhar Bhame" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "B106", "faculty": "Vipin Tiwari" },
+          "14:35-15:30": { "subject": "PPSL", "location": "CAD Lab 1st floor", "faculty": "Vipin Tiwari" },
+          "15:30-16:25": { "subject": "PPSL", "location": "CAD Lab 1st floor", "faculty": "Vipin Tiwari" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "11:45-12:45": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "B106", "faculty": "Dr Shekhar Bhame" },
+          "14:35-15:30": { "subject": "DAWE", "location": "VLSI, 3rd Floor", "faculty": "Dr. Snehal Bhosale" },
+          "15:30-16:25": { "subject": "DAWE", "location": "VLSI, 3rd Floor", "faculty": "Dr. Snehal Bhosale" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "09:45-10:45": { "subject": "PPS", "location": "C108, 1st Floor", "faculty": "Prof. Vipin Tiwari" },
+          "10:45-11:45": { "subject": "MA-IITUT", "location": "407, 4th Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "11:45-12:45": { "subject": "MA-IITUT", "location": "407, 4th Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Prof. Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "FEEEE", "location": "C108, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "09:45-10:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEEE", "location": "B106, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "10:45-11:45": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prof. Deepali Kulkarni" },
+          "11:45-12:45": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prof. Deepali Kulkarni" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "DAWE", "location": "CCL 5th floor", "faculty": "Dr. Snehal Bhosale" },
+          "09:45-10:45": { "subject": "DAWE", "location": "CCL 5th floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108", "faculty": "Pritesh Shah" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "C108", "faculty": "Shekhar Bhame" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "B106", "faculty": "Vipin Tiwari" },
+          "14:35-15:30": { "subject": "CHEL", "location": "Chemistry Lab Ground Floor", "faculty": "Dr. Shekhar Bhame" },
+          "15:30-16:25": { "subject": "CHEL", "location": "Chemistry Lab Ground Floor", "faculty": "Dr. Shekhar Bhame" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "PPSL", "location": "DSPL Lab 3rd floor", "faculty": "Prof. Vipin Tiwari" },
+          "11:45-12:45": { "subject": "PPSL", "location": "DSPL Lab 3rd floor", "faculty": "Prof. Vipin Tiwari" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "B106", "faculty": "Dr Shekhar Bhame" },
+          "14:35-15:30": { "subject": "FEEEL", "location": "BEEE Lab 3rd floor", "faculty": "Prof. Sushma Parihar" },
+          "15:30-16:25": { "subject": "FEEEL", "location": "BEEE Lab 3rd floor", "faculty": "Prof. Sushma Parihar" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "09:45-10:45": { "subject": "PPS", "location": "C108, 1st Floor", "faculty": "Prof. Vipin Tiwari" },
+          "10:45-11:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Nitin Solke" },
+          "11:45-12:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Nitin Solke" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Prof. Sangeeta Randive" },
+          "14:35-15:30": { "subject": "MA-II TUT", "location": "B106 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "15:30-16:25": { "subject": "MA-II TUT", "location": "B106 1st floor", "faculty": "Dr. Sneha Gajbhiye" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "FEEE", "location": "C108, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "09:45-10:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEEE", "location": "B106, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "10:45-11:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Nitin Solke" },
+          "11:45-12:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Nitin Solke" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "A3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108", "faculty": "Dr. Pritesh Shah" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "C108 1st floor", "faculty": "Shekhar Bhame" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "B106", "faculty": "Vipin Tiwari" },
+          "14:35-15:30": { "subject": "FEEEL", "location": "BEEE Lab 3rd floor", "faculty": "Prof. Sushma Parihar" },
+          "15:30-16:25": { "subject": "FEEEL", "location": "BEEE Lab 3rd floor", "faculty": "Prof. Sushma Parihar" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st Floor", "faculty": "Gayatri Dasare/Yogita shah/Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "MA-II TUT", "location": "407 4th floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "11:45-12:45": { "subject": "MA-II TUT", "location": "407 4th floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "B106 1st floor", "faculty": "Dr Shekhar Bhame" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD102, 1st Floor", "faculty": "Dr. Nitin Solke" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "09:45-10:45": { "subject": "PPS", "location": "C108, 1st Floor", "faculty": "Prof. Vipin Tiwari" },
+          "10:45-11:45": { "subject": "DAWE", "location": "DSPL 3rd floor", "faculty": "Dr. Snehal Bhosale" },
+          "11:45-12:45": { "subject": "DAWE", "location": "DSPL 3rd floor", "faculty": "Dr. Snehal Bhosale" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Prof. Sangeeta Randive" },
+          "14:35-15:30": { "subject": "CHEL", "location": "CHE LAB ground floor", "faculty": "Dr.Shekhar Bhame" },
+          "15:30-16:25": { "subject": "CHEL", "location": "CHE LAB ground floor", "faculty": "Dr.Shekhar Bhame" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "FEEE", "location": "C108, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "09:45-10:45": { "subject": "MA-II", "location": "C108, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Dr. Pritesh Shah" },
+          "10:45-11:45": { "subject": "PPSL", "location": "DSPL 3rd floor", "faculty": "Prof. Vipin Tiwari" },
+          "11:45-12:45": { "subject": "PPSL", "location": "DSPL 3rd floor", "faculty": "Prof. Vipin Tiwari" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102, 1st Floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "B1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Sangeeta Randive" },
+          "10:45-11:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Sushma Parihar" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prof. Deepali Kulkarni" },
+          "13:40-14:35": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prof. Deepali Kulkarni" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "10:45-11:45": { "subject": "CHE", "location": "B106", "faculty": "Dr. Shekhar Bhame" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "DAWE", "location": "DSPL 3rd floor", "faculty": "Dr. Snehal Bhosle" },
+          "13:40-14:35": { "subject": "DAWE", "location": "DSPL 3rd floor", "faculty": "Dr. Snehal Bhosle" },
+          "14:35-15:30": { "subject": "MA-II", "location": "B106 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Prof. Sushma Parihar" },
+          "10:45-11:45": { "subject": "PPS", "location": "B106, 1st Floor", "faculty": "Prof. Shwetambari Amitabh Chiwhane" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PPSL", "location": "CCL, 5th Floor", "faculty": "Prof Shwetambari Amitabh Chiwhane" },
+          "09:45-10:45": { "subject": "PPSL", "location": "CCL, 5th Floor", "faculty": "Prof. Shwetambari Amitabh Chiwhane" },
+          "10:45-11:45": { "subject": "HWM", "location": "B106", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "11:45-12:45": { "subject": "HWM", "location": "B106", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "FEEEL", "location": "BEEE Lab", "faculty": "Prof. Sushma Parihar" },
+          "15:30-16:25": { "subject": "FEEEL", "location": "BEEE Lab", "faculty": "Prof. Sushma Parihar" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108 1st floor", "faculty": "Prof. Sushma Parihar" },
+          "11:45-12:45": { "subject": "MA-II", "location": "C108, 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "C108", "faculty": "Prof. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "MA-II TUT", "location": "C108", "faculty": "Dr. Sneha Gajbhiye" },
+          "15:30-16:25": { "subject": "MA-II TUT", "location": "C108", "faculty": "Dr. Sneha Gajbhiye" }
+        }
+      },
+      "B2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Sangeeta Randive" },
+          "10:45-11:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Dr. Sangeeta Pant" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "13:40-14:35": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "MA-II TUT", "location": "407, 4th floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "09:45-10:45": { "subject": "MA-II TUT", "location": "407, 4th floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "10:45-11:45": { "subject": "CHE", "location": "B106", "faculty": "Dr. Shekhar Bhame" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PPSL", "location": "VLSI Lab,3rd Floor", "faculty": "Prof. Shwetambari Chiwhane" },
+          "13:40-14:35": { "subject": "PPSL", "location": "VLSI Lab,3rd Floor", "faculty": "Prof. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "MA-II", "location": "B106 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Prof. Sushma Parihar" },
+          "10:45-11:45": { "subject": "PPS", "location": "B106, 1st Floor", "faculty": "Prof. Shwetambari Chiwhane" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Prof. Deepali Kulkarni" },
+          "09:45-10:45": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Prof. Deepali Kulkarni" },
+          "10:45-11:45": { "subject": "HWM", "location": "B106 1st floor", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "11:45-12:45": { "subject": "HWM", "location": "B106 1st floor", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Amol Dalvi" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "DAWE", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "09:45-10:45": { "subject": "DAWE", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108 1st floor", "faculty": "Prof. Sushma Parihar" },
+          "11:45-12:45": { "subject": "MA-II", "location": "C108 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "C108 1st floor", "faculty": "Prof. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "FEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "15:30-16:25": { "subject": "FEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" }
+        }
+      },
+      "B3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "CT", "location": "B106, 1st Floor", "faculty": "Sangeeta Randive" },
+          "10:45-11:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Dr. Sushma Parihar" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "DAWE", "location": "OSTL 4th floor", "faculty": "Dr. Sneha Bhosle" },
+          "13:40-14:35": { "subject": "DAWE", "location": "OSTL 4th floor", "faculty": "Dr. Sneha Bhosle" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "FEEEL", "location": "BEEE Lab, 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "09:45-10:45": { "subject": "FEEEL", "location": "BEEE Lab, 3rd Floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "10:45-11:45": { "subject": "CHE", "location": "B106", "faculty": "Dr. Shekhar Bhame" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "MA-II TUT", "location": "407, 4th floor", "faculty": "Vaishnavi kadu" },
+          "13:40-14:35": { "subject": "MA-II TUT", "location": "407, 4th floor", "faculty": "Vaishnavi Kadu" },
+          "14:35-15:30": { "subject": "MA-II", "location": "B106, 1st floor", "faculty": "Dr. Sneha Gajbhiye" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "CHE", "location": "B106, 1st Floor", "faculty": "Dr. Shekhar Bhame" },
+          "09:45-10:45": { "subject": "FEEE", "location": "B106, 1st Floor", "faculty": "Prof. Sushma Parihar" },
+          "10:45-11:45": { "subject": "PPS", "location": "B106, 1st Floor", "faculty": "Prof.Shwetambari Chiwhane" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Ravi Shekhar" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Ravi Shekhar" },
+          "10:45-11:45": { "subject": "HWM", "location": "B106", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "11:45-12:45": { "subject": "HWM", "location": "B106", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "A102", "faculty": "Dr. Sneha Gajbhiye" },
+          "14:35-15:30": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Prof. Deepali Kulkarni" },
+          "15:30-16:25": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Prof. Deepali Kulkarni" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PPSL", "location": "VLSI 3rd floor ", "faculty": "Prof. Shwetambari Chiwhane" },
+          "09:45-10:45": { "subject": "PPSL", "location": "VLSI, 3rd floor", "faculty": "Prof. Shwetambari Chiwhane" },
+          "10:45-11:45": { "subject": "FEEE", "location": "C108", "faculty": "Prof. Sushma Parihar" },
+          "11:45-12:45": { "subject": "MA-II", "location": "C108", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PPS", "location": "C108", "faculty": "Prof. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Ravi Shekhar" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD 102", "faculty": "Dr. Ravi Shekhar" }
+        }
+      }
+    },
+    "AIML": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "11:45-12:45": { "subject": "CRT", "location": "D110, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "Physics", "location": "D110, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "11:45-12:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "14:35-15:30": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Supriya Bhosale" },
+          "15:30-16:25": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Supriya Bhosale" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" },
+          "09:45-10:45": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Dr. Priyanka Deshmukh" },
+          "15:30-16:25": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Dr. Priyanka Deshmukh" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "09:45-10:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "PCL", "location": "PPS Lab, 4th floor", "faculty": "Sheetal Borhade" },
+          "11:45-12:45": { "subject": "PCL", "location": "PPS Lab, 4th floor", "faculty": "Sheetal Borhade" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "09:45-10:45": { "subject": "SDS", "location": "C109 1st floor", "faculty": "Shilpa Malge" },
+          "10:45-11:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "11:45-12:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "11:45-12:45": { "subject": "CRT", "location": "D110, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "PHY", "location": "D110, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Dr. Priyanka Deshmukh" },
+          "11:45-12:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Dr. Priyanka Deshmukh" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "14:35-15:30": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" },
+          "15:30-16:25": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "PCL", "location": "PPS Lab, 4th floor", "faculty": "Hema Karande" },
+          "09:45-10:45": { "subject": "PCL", "location": "PPS Lab, 4th floor", "faculty": "Hema Karande" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "SDS-TUT", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "15:30-16:25": { "subject": "SDS-TUT", "location": "D110, 1st floor", "faculty": "Shilpa Malge" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "09:45-10:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "CA-TUT", "location": "C108, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "CA-TUT", "location": "C108, 1st floor", "faculty": "Chhaya Lande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "09:45-10:45": { "subject": "SDS", "location": "C109 1st floor", "faculty": "Shilpa Malge" },
+          "10:45-11:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "11:45-12:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "D112, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "11:45-12:45": { "subject": "CRT", "location": "D110, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "PHY", "location": "D110, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "11:45-12:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "14:35-15:30": { "subject": "PCL", "location": "PPSL Lab, 4th floor", "faculty": "Sheetal Borhade" },
+          "15:30-16:25": { "subject": "PCL", "location": "PPSL Lab, 4th floor", "faculty": "Sheetal Borhade" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "09:45-10:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "D110, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Chhaya Lande" },
+          "15:30-16:25": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Chhaya Lande" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "09:45-10:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "10:45-11:45": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" },
+          "11:45-12:45": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Dr. Meena Laad" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "09:45-10:45": { "subject": "SDS", "location": "C109 1st floor", "faculty": "Shilpa Malge" },
+          "10:45-11:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Priyanka Deshmukh" },
+          "11:45-12:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Priyanka Deshmukh" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "B1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Nivedita Mishra" },
+          "09:45-10:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Nivedita Mishra" },
+          "10:45-11:45": { "subject": "ES", "location": "D111, 1st floor", "faculty": "Manali Date" },
+          "11:45-12:45": { "subject": "PC", "location": "D111, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "PHYL", "location": "Physics Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "15:30-16:25": { "subject": "PHYL", "location": "Physics Lab, 1st floor", "faculty": "Kuldeep Mishra" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "09:45-10:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "10:45-11:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CA-TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "13:40-14:35": { "subject": "CA-TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "14:35-15:30": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" },
+          "15:30-16:25": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "13:40-14:35": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "09:45-10:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D111, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "PHY", "location": "D111, 1st floor", "faculty": "Dr. Meena Laad" },
+          "15:30-16:25": { "subject": "ES", "location": "b106 1st floor", "faculty": "Manali Date" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "SDS-TUT", "location": "C108, 1st floor", "faculty": "Vaishnavi Kadu " },
+          "09:45-10:45": { "subject": "SDS-TUT", "location": "C108, 1st floor", "faculty": "Vaishnavi Kadu " },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "CRT", "location": "C109, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "B2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Chhaya Lande" },
+          "09:45-10:45": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Chhaya Lande" },
+          "10:45-11:45": { "subject": "ES", "location": "D111, 1st floor", "faculty": "Manali Date" },
+          "11:45-12:45": { "subject": "PC", "location": "D111, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "SDS-TUT", "location": "C108, 1st floor", "faculty": "Shilpa Malge" },
+          "15:30-16:25": { "subject": "SDS-TUT", "location": "C108, 1st floor", "faculty": "Shilpa Malge" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "09:45-10:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "10:45-11:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Hema Karande" },
+          "13:40-14:35": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Hema Karande" },
+          "14:35-15:30": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" },
+          "15:30-16:25": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" },
+          "13:40-14:35": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Nivedita Mishra" },
+          "09:45-10:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Nivedita Mishra" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D111, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "PHY", "location": "D111, 1st floor", "faculty": "Dr. Meena Laad" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PHYL", "location": "Physics Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "09:45-10:45": { "subject": "PHYL", "location": "Physics Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "CRT", "location": "C109, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "B3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "09:45-10:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "10:45-11:45": { "subject": "ES", "location": "D111, 1st floor", "faculty": "Manali Date" },
+          "11:45-12:45": { "subject": "PC", "location": "D111, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "STAIML", "location": "PPS Lab, 4th floor", "faculty": "Nivedita Mishra" },
+          "15:30-16:25": { "subject": "STAIML", "location": "PPS Lab, 4th floor", "faculty": "Nivedita Mishra" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "09:45-10:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "10:45-11:45": { "subject": "PHY", "location": "C109, 1st floor", "faculty": "Dr. Meena Laad" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "13:40-14:35": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" },
+          "15:30-16:25": { "subject": "HWM", "location": "C109, 1st floor", "faculty": "Test" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "C109, 1st floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Akhila Sahu" },
+          "13:40-14:35": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Akhila Sahu" },
+          "14:35-15:30": { "subject": "CS", "location": "C109, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "09:45-10:45": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Shilpa Malge" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "PC", "location": "C109, 1st floor", "faculty": "Hema Karande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D111, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "PHY", "location": "D111, 1st floor", "faculty": "Dr. Meena Laad" },
+          "15:30-16:25": { "subject": "ES", "location": "B106 1st floor", "faculty": "Manali Date" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Supriya Bhosale" },
+          "09:45-10:45": { "subject": "CA-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Supriya Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "CRT", "location": "C109, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "D110, 1st floor", "faculty": "Shilpa Malge" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "C1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Supriya Mahadevkar" },
+          "13:40-14:35": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Supriya Mahadevkar" },
+          "14:35-15:30": { "subject": "HWM", "location": "D111, 1st floor", "faculty": "Test" },
+          "15:30-16:25": { "subject": "HWM", "location": "D111, 1st floor", "faculty": "Test" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "ES", "location": "C108, 1st floor", "faculty": "Manali Date" },
+          "10:45-11:45": { "subject": "CA", "location": "C108, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CA-TUT", "location": "401 4th floor", "faculty": "Chhaya Lande" },
+          "13:40-14:35": { "subject": "CA-TUT", "location": "401 4th floor", "faculty": "Chhaya Lande" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SDS-TUT", "location": "508, 5th floor", "faculty": "Vaishnavi Kadu" },
+          "09:45-10:45": { "subject": "SDS-TUT", "location": "508, 5th floor", "faculty": "Vaishnavi Kadu" },
+          "10:45-11:45": { "subject": "PC", "location": "C108, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "11:45-12:45": { "subject": "CRT", "location": "C108, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Adigoppula Raju" },
+          "14:35-15:30": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "15:30-16:25": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Kuldeep Mishra" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "SDS", "location": "D112, 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "PC", "location": "D112, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "10:45-11:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Shrikrishna Kolhar" },
+          "11:45-12:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Shrikrishna Kolhar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PHY", "location": "C108, 1st floor", "faculty": "Kuldeep Mishra" },
+          "14:35-15:30": { "subject": "CS", "location": "C108, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" },
+          "09:45-10:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" },
+          "10:45-11:45": { "subject": "PC", "location": "D111, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "11:45-12:45": { "subject": "PHY", "location": "D111, 1st floor", "faculty": "Kuldeep Mishra" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D112, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "C2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "ES", "location": "C109, 1st floor", "faculty": "Manali Date" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CA", "location": "C109, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "13:40-14:35": { "subject": "PHYL", "location": "PHYL Lab, 1st floor", "faculty": "Kuldeep Mishra" },
+          "14:35-15:30": { "subject": "HWM", "location": "D111, 1st floor", "faculty": "Test" },
+          "15:30-16:25": { "subject": "HWM", "location": "D111, 1st floor", "faculty": "Test" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "ES", "location": "C108, 1st floor", "faculty": "Manali Date" },
+          "10:45-11:45": { "subject": "CA", "location": "C108, 1st floor", "faculty": "Chhaya Lande" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Adigoppula Raju" },
+          "13:40-14:35": { "subject": "SDS-TUT", "location": "TUTR-2, 3rd floor", "faculty": "Adigoppula Raju" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Priyanka Deshmukh" },
+          "09:45-10:45": { "subject": "STAIML", "location": "OSTL Lab, 4th floor", "faculty": "Priyanka Deshmukh" },
+          "10:45-11:45": { "subject": "PC", "location": "C108, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "11:45-12:45": { "subject": "CRT", "location": "C108, 1st floor", "faculty": "Sangeeta Randive" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SDS", "location": "C108, 1st floor", "faculty": "Adigoppula Raju" },
+          "14:35-15:30": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" },
+          "15:30-16:25": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Vinod Jangale" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "SDS", "location": "D112, 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "PC", "location": "D112, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "10:45-11:45": { "subject": "CA-TUT", "location": "407, 4th floor", "faculty": "Supriya Bhosale" },
+          "11:45-12:45": { "subject": "CA-TUT", "location": "407, 4th floor", "faculty": "Supriya Bhosale" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PHY", "location": "C108, 1st floor", "faculty": "Kuldeep Mishra" },
+          "14:35-15:30": { "subject": "CS", "location": "C108, 1st floor", "faculty": "Swagata Ghosh" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "09:45-10:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Sheetal Borhade" },
+          "10:45-11:45": { "subject": "PC", "location": "D111, 1st floor", "faculty": "Supriya Mahadevkar" },
+          "11:45-12:45": { "subject": "PHY", "location": "D111, 1st floor", "faculty": "Kuldeep Mishra" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D112, 1st floor", "faculty": "Swagata Ghosh" },
+          "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+      },
+      "C3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "PCE", "location": "D110", "faculty": "Dr. Kuldeep Mishra" },
+          "09:45-10:45": { "subject": "MA-II", "location": "D110", "faculty": "Dr. Shahid Wani" },
+          "10:45-11:45": { "subject": "PHYL", "location": "Physics lab,1st floor", "faculty": "Prof. Akhila Sahu" },
+          "11:45-12:45": { "subject": "PHYL", "location": "Physics lab,1st floor", "faculty": "Prof. Akhila Sahu" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D110", "faculty": "Vinod Jangale" },
+          "14:35-15:30": { "subject": "ES", "location": "D110 1st floor", "faculty": "Dr. Amar Jain" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "PCL", "location": "PPS Lab,4th floor", "faculty": "Dr. Rupali Gangarde" },
+          "09:45-10:45": { "subject": "PCL", "location": "PPS Lab,4th floor", "faculty": "Dr. Rupali Gangarde" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "CS", "location": "D110", "faculty": "Prof. Vinod Jangale" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ES", "location": "D110", "faculty": "Dr. AMar Jain" },
+          "14:35-15:30": { "subject": "PCE", "location": "D110", "faculty": "Dr. Kuldeep Mishra" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SP", "location": "D110", "faculty": "Dr. Javid Gani Dar" },
+          "09:45-10:45": { "subject": "MA-II", "location": "D110", "faculty": "Dr. Shahid Wani" },
+          "10:45-11:45": { "subject": "PCL", "location": "PPS Lab,4th Floor", "faculty": "Dr. Rupali Gangarde" },
+          "11:45-12:45": { "subject": "PCL", "location": "PPS Lab,4th Floor", "faculty": "Dr. Rupali Gangarde" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PC", "location": "D110", "faculty": "Dr. Rupali Gangarde" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PC", "location": "D110", "faculty": "Dr. Rupali Gangarde" },
+          "09:45-10:45": { "subject": "PCE", "location": "D110", "faculty": "Dr. Kuldeep Mishra" },
+          "10:45-11:45": { "subject": "CSL", "location": "Language Lab,1st floor", "faculty": "Dr. Neha Divekar" },
+          "11:45-12:45": { "subject": "CSL", "location": "Language Lab,1st floor", "faculty": "Dr. Neha Divekar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II", "location": "D110", "faculty": "Dr.Shahid Wani" },
+          "14:35-15:30": { "subject": "SP", "location": "D110", "faculty": "Dr.Javid Gani Dar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PC", "location": "D110", "faculty": "Dr. Rupali Gangarde" },
+          "09:45-10:45": { "subject": "CRT", "location": "D110", "faculty": "Sangeeta Randive" },
+          "10:45-11:45": { "subject": "HWM", "location": "D110", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "11:45-12:45": { "subject": "HWM", "location": "D110", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II TUT", "location": "TUT-II,3rd floor", "faculty": "Dr.Shahid Wani" },
+          "14:35-15:30": { "subject": "MA-II TUT", "location": "TUT-II,3rd floor", "faculty": "Dr.Shahid Wani" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      }
+    },
+    "MECH": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "EM-II TUT", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "EM-II TUT", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st floor", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CT", "location": "A101, 1st floor", "faculty": "Sangeeta Randive" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101, 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "STME", "location": "CAD Lab 1st Floor", "faculty": "Swapnil Narkhede" },
+          "11:45-12:45": { "subject": "STME", "location": "CAD Lab 1st Floor", "faculty": "Swapnil Narkhede" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "11:45-12:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Dr. Chandan Kumar Choubey" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st year", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "EML", "location": "EM Lab, 3rd floor", "faculty": "Shruti Maheshwari" },
+          "15:30-16:25": { "subject": "EML", "location": "EM Lab, 3rd floor", "faculty": "Shruti Maheshwari" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "CHE", "location": "A101, 1st year", "faculty": "Nilisha Itankar" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Prajakta Mukadam" },
+          "14:35-15:30": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Prajakta Mukadam" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "STME", "location": "CAD Lab 1st Floor", "faculty": "Swapnil Narkhede" },
+          "09:45-10:45": { "subject": "STME", "location": "CAD Lab 1st Floor", "faculty": "Swapnil Narkhede" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st floor", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CT", "location": "A101, 1st floor", "faculty": "Sangeeta Randive" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101, 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "EML", "location": "EM Lab, 3rd floor", "faculty": "Amol Dalavi" },
+          "11:45-12:45": { "subject": "EML", "location": "EM Lab, 3rd floor", "faculty": "Amol Dalavi" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Nilisha Itankar" },
+          "11:45-12:45": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Nilisha Itankar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st year", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "15:30-16:25": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "CHE", "location": "A101, 1st year", "faculty": "Nilisha Itankar" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "-" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EM-II TUT", "location": "A101, 1st floor", "faculty": "Adigoppula Raju" },
+          "14:35-15:30": { "subject": "EM-II TUT", "location": "A101, 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prajakta Mudakam" },
+          "09:45-10:45": { "subject": "CHEL", "location": "CHEL Lab, Ground Floor", "faculty": "Prajakta Mudakam" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st floor", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CT", "location": "A101, 1st floor", "faculty": "Sangeeta Randive" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101, 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "11:45-12:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "A101, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "STME", "location": "CAD Lab, 1st floor", "faculty": "Swapnil Narkhede" },
+          "11:45-12:45": { "subject": "STME", "location": "CAD Lab, 1st floor", "faculty": "Swapnil Narkhede" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE", "location": "A101, 1st floor", "faculty": "Nilisha Itankar" },
+          "14:35-15:30": { "subject": "EM-II TUT", "location": "A101, 1st floor", "faculty": "Adigoppula Raju" },
+          "15:30-16:25": { "subject": "EM-II TUT", "location": "A101, 1st floor", "faculty": "Adigoppula Raju" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "CHE", "location": "A101, 1st year", "faculty": "Nilisha Itankar" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "-" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "EM-II", "location": "A101- 1st floor", "faculty": "Adigoppula Raju" },
+          "09:45-10:45": { "subject": "BEEE", "location": "A101 1st floor", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Mechanics", "location": "A101, 1st floor", "faculty": "Anindita Roy" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EML ", "location": "EM Lab, 3rd floor", "faculty": "Amol Dalavi" },
+          "14:35-15:30": { "subject": "EML ", "location": "EM Lab, 3rd floor", "faculty": "Amol Dalavi" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      }
+    },
+    "RNA": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CHEL", "location": "Chemistry Lab-Ground floor", "faculty": "Smita Wagholikar " },
+          "11:45-12:45": { "subject": "CHEL", "location": " Chemistry Lab-Ground floor ", "faculty": "Smita Wagholikar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102- 1st floor", "faculty": "Anurag Mahajan" },
+          "14:35-15:30": { "subject": "EM-II TUT", "location": "Tutorial Room 1- 3rd floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "EM-II TUT", "location": " Tutorial Room 1- 3rd floor ", "faculty": "Sangeeta Pant" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD103 – 1st floor", "faculty": "Dr. Rajesh K" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD103 – 1st floor", "faculty": "Dr. Rajesh K" },
+          "10:45-11:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "C108, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Sudhanshu Gonge" },
+          "15:30-16:25": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Sudhanshu Gonge" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Anurag Mahajan" },
+          "09:45-10:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Anurag Mahajan" },
+          "10:45-11:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "11:45-12:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "A102, 1st Floor", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD103 – 1st floor", "faculty": "Dr. Rajesh K" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD103 – 1st floor", "faculty": "Dr. Rajesh K" },
+          "10:45-11:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Sudhanshu Gonge" },
+          "15:30-16:25": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Sudhanshu Gonge" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CHE - II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr, Rajesh Bisane " },
+          "11:45-12:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr, Rajesh Bisane " },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102- 1st floor", "faculty": "Anurag Mahajan" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr, Rajesh K" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr, Rajesh K" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr, Rajesh Bisane " },
+          "09:45-10:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr, Rajesh Bisane " },
+          "10:45-11:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "C108, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr, Rajesh K" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr, Rajesh K" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "CHEL", "location": "Chemistry Lab-Ground floor", "faculty": "Smita Wagholikar " },
+          "09:45-10:45": { "subject": "CHEL", "location": "Chemistry Lab-Ground floor", "faculty": "Smita Wagholikar " },
+          "10:45-11:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "11:45-12:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "A102, 1st Floor", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Anurag Mahajan" },
+          "09:45-10:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Anurag Mahajan" },
+          "10:45-11:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "EM-II TUT", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "EM-II TUT", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CHE - II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        }
+      },
+      "A3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Kunal Shejul" },
+          "11:45-12:45": { "subject": "BEEEL", "location": "BEEE Lab 3rd Floor", "faculty": "Kunal Shejul" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102- 1st floor", "faculty": "Anurag Mahajan" },
+          "14:35-15:30": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Rajesh Bisane" },
+          "15:30-16:25": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Rajesh Bisane" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "EM-II TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "09:45-10:45": { "subject": "EM-II TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "10:45-11:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "C108, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "CHEL", "location": "Chemistry Lab-Ground floor", "faculty": "Smita Wagholikar " },
+          "15:30-16:25": { "subject": "CHEL", "location": "Chemistry Lab-Ground floor", "faculty": "Smita Wagholikar " }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr. Rajesh K" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr. Rajesh K" },
+          "10:45-11:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "11:45-12:45": { "subject": "HWM", "location": "A102, 1st Floor", "faculty": "Test" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "A102, 1st Floor", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Rajesh Bisane" },
+          "09:45-10:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Rajesh Bisane" },
+          "10:45-11:45": { "subject": "CHE-II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr. Rajesh K" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Dr. Rajesh K" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "BEEE", "location": "A102 1st Floor", "faculty": "Anurag Mahajan" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CHE - II", "location": "A102- 1st floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        }
+      },
+      "B1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "10:45-11:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Pravin Mundhe" },
+          "13:40-14:35": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Pravin Mundhe" },
+          "14:35-15:30": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "15:30-16:25": { "subject": "BEEE", "location": "A102", "faculty": "Kunal Shejul" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Smita Wagholikar" },
+          "11:45-12:45": { "subject": "CHEL", "location": "CHEL LAB, Ground floor", "faculty": "Smita Wagholikar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102, 1st floor", "faculty": "Kunal Shejul" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD102, 1st floor", "faculty": "Priya Jadhav" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD102, 1st floor", "faculty": "Priya Jadhav" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Pravin Mundhe" },
+          "11:45-12:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Pravin Mundhe" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE-II", "location": "A101, 1st floor", "faculty": "Smita Wagholikar" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "A101, 1st floor", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "BEEEL", "location": "BEEE lab 3rd floor", "faculty": "Kunal Shejul" },
+          "09:45-10:45": { "subject": "BEEEL", "location": "BEEE lab 3rd floor", "faculty": "Kunal Shejul" },
+          "10:45-11:45": { "subject": "BEEE", "location": "B106, 1st floor", "faculty": "Kunal Shejul" },
+          "11:45-12:45": { "subject": "EM-II", "location": "B106, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EM-II TUT", "location": "B106, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "EM-II TUT", "location": "B106, 1st floor", "faculty": "Sangeeta Pant" }
+        }
+      },
+      "B2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "EM-II TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "09:45-10:45": { "subject": "EM-II TUT", "location": "508, 5th floor", "faculty": "Supriya Bhosale" },
+          "10:45-11:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "BEEEL", "location": "BEEE lab 3rd floor", "faculty": "Jayashree Pande" },
+          "13:40-14:35": { "subject": "BEEEL", "location": "BEEE lab 3rd floor", "faculty": "Jayashree Pande" },
+          "14:35-15:30": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "15:30-16:25": { "subject": "BEEE", "location": "A102", "faculty": "Kunal Shejul" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "11:45-12:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102, 1st floor", "faculty": "Kunal Shejul" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr. Vivek Warke" },
+          "09:45-10:45": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr. Vivek Warke" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Test" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Test" },
+          "10:45-11:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "11:45-12:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE-II", "location": "A101, 1st floor", "faculty": "Smita Wagholikar" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "09:45-10:45": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Priya Jadhav" },
+          "10:45-11:45": { "subject": "BEEE", "location": "B106, 1st floor", "faculty": "Kunal Shejul" },
+          "11:45-12:45": { "subject": "EM-II", "location": "B106, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr. Vivek Warke" },
+          "15:30-16:25": { "subject": "STR", "location": "SML, 6th floor", "faculty": "Dr. Vivek Warke" }
+        }
+      },
+      "B3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Vivek Warke" },
+          "09:45-10:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Vivek Warke" },
+          "10:45-11:45": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "EGL", "location": "DHD103", "faculty": "Ramesh B T" },
+          "13:40-14:35": { "subject": "EGL", "location": "DHD103", "faculty": "Ramesh B T" },
+          "14:35-15:30": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "15:30-16:25": { "subject": "BEEE", "location": "A102", "faculty": "Kunal Shejul" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CHE-II", "location": "A102, 1st floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Vivek Warke" },
+          "11:45-12:45": { "subject": "STR", "location": "SML, 6th Floor", "faculty": "Dr. Vivek Warke" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "BEEE", "location": "A102, 1st floor", "faculty": "Kunal Shejul" },
+          "14:35-15:30": { "subject": "EM-II", "location": "A102, 1st floor", "faculty": "Sangeeta Pant" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "EM-II TUT", "location": "407, 4th floor", "faculty": "Supriya Bhosale" },
+          "09:45-10:45": { "subject": "EM-II TUT", "location": "407, 4th floor", "faculty": "Supriya Bhosale" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Ms Gayatri Dasare Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "B106, 1st floor", "faculty": "Ms Gayatri Dasare Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "11:45-12:45": { "subject": "BEEEL", "location": "BEEE Lab, 3rd floor", "faculty": "Jayashree Pande" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CHE-II", "location": "A101, 1st floor", "faculty": "Smita Wagholikar" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "A101, 1st floor", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Smita Wagholikar" },
+          "09:45-10:45": { "subject": "CHEL", "location": "CHEL Lab, Ground floor", "faculty": "Smita Wagholikar" },
+          "10:45-11:45": { "subject": "BEEE", "location": "B106, 1st floor", "faculty": "Kunal Shejul" },
+          "11:45-12:45": { "subject": "EM-II", "location": "B106, 1st floor", "faculty": "Sangeeta Pant" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "B106, 1st floor", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Ramesh B T" },
+          "15:30-16:25": { "subject": "EGL", "location": "DHD103, 1st floor", "faculty": "Ramesh B T" }
+        }
+      }
+    },
+    "CSE": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Dr. Neha Divekar" },
+          "09:45-10:45": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Dr. Neha Divekar" },
+          "10:45-11:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "11:45-12:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "14:35-15:30": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Dr. Kanhaiya Sharma" },
+          "11:45-12:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Dr. Kanhaiya Sharma" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "14:35-15:30": { "subject": "MA-II TUT", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "15:30-16:25": { "subject": "MA-II TUT", "location": "D112", "faculty": "Dr. B.S.Veena" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "CRT", "location": "D112", "faculty": "Prof. Sangeeta Randive" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D112", "faculty": "Dr. Neha Divekar" },
+          "14:35-15:30": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "15:30-16:25": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "PCL", "location": "PPSL 4th floor", "faculty": "Dr. Kanhaiya Sharma" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar (JGD)" },
+          "14:35-15:30": { "subject": "CS", "location": "D112", "faculty": "Dr.Neha Divekar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SP TUT", "location": "407, 4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "14:35-15:30": { "subject": "SP TUT", "location": "407, 4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "SP TUT", "location": "407, 4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "09:45-10:45": { "subject": "SP TUT", "location": "407, 4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "10:45-11:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "11:45-12:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "14:35-15:30": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "11:45-12:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "14:35-15:30": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Dr. Neha Divekar" },
+          "15:30-16:25": { "subject": "CSL", "location": "Language Lab, 1st floor", "faculty": "Dr. Neha Divekar" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "CRT", "location": "D112", "faculty": "Prof. Sangeeta Randive" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D112", "faculty": "Dr. Neha Divekar" },
+          "14:35-15:30": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "15:30-16:25": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "SP-TUT", "location": "407,4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "09:45-10:45": { "subject": "SP-TUT", "location": "407,4th Floor", "faculty": "Dr. Javid Gani Dar" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar (JGD)" },
+          "14:35-15:30": { "subject": "CS", "location": "D112", "faculty": "Dr.Neha Divekar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MA-II TUT", "location": "508, 5th Floor", "faculty": "Dr. B.S.Veena" },
+          "14:35-15:30": { "subject": "MA-II TUT", "location": "508, 5th Floor", "faculty": "Dr. B.S.Veena" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      },
+      "A3": {
+        "Monday": {
+          "08:45-09:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "09:45-10:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "10:45-11:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "11:45-12:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "14:35-15:30": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S. Veena" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "MA-II TUT", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "11:45-12:45": { "subject": "MA-II TUT", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "14:35-15:30": { "subject": "PCL", "location": "OSTL Lab,4th Floor", "faculty": "Dr. Kanhaiya Sharma" },
+          "15:30-16:25": { "subject": "PCL", "location": "OSTL Lab,4th Floor", "faculty": "Dr. Kanhaiya Sharma" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "CRT", "location": "D112", "faculty": "Prof. Sangeeta Randive" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CS", "location": "D112", "faculty": "Dr. Neha Divekar" },
+          "14:35-15:30": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" },
+          "15:30-16:25": { "subject": "HWM", "location": "D112", "faculty": "Ms Gayatri Dasare/Ms Yoshita Shah/Dr Shrimathy Vijayaraghavan" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "09:45-10:45": { "subject": "PHYL", "location": "Physics Lab,1st Floor", "faculty": "Dr. Rupali Nagar" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ES", "location": "D112", "faculty": "Dr. Amar Jain" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "SP", "location": "D112", "faculty": "Dr. Javid Gani Dar (JGD)" },
+          "14:35-15:30": { "subject": "CS", "location": "D112", "faculty": "Dr.Neha Divekar" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "PC", "location": "D112", "faculty": "Dr. Kanhaiya Sharma" },
+          "09:45-10:45": { "subject": "PCE", "location": "D112", "faculty": "Dr. Rupali Nagar" },
+          "10:45-11:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "MA-II", "location": "D112", "faculty": "Dr. B.S.Veena" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CSL", "location": "Language Lab,1st Floor", "faculty": "Dr. Neha Divekar" },
+          "14:35-15:30": { "subject": "CSL", "location": "Language Lab,1st Floor", "faculty": "Dr. Neha Divekar" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+        }
+      }
+    },
+    "CIVIL": {
+      "A1": {
+        "Monday": {
+          "08:45-09:45": { "subject": "BSML", "location": "ESIL 3rd floor", "faculty": "Dr. Harikrishnan R" },
+          "09:45-10:45": { "subject": "BSML", "location": "ESIL 3rd floor", "faculty": "Dr. Harikrishnan R" },
+          "10:45-11:45": { "subject": "BCT", "location": "508 5th floor", "faculty": "Amar Jain" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "508", "faculty": "Dr. Nilisha Itankar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "IPPL", "location": "Civil computer lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "14:35-15:30": { "subject": "IPPL", "location": "Civil computer lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "15:30-16:25": { "subject": "BSM", "location": "508", "faculty": "Dr. Harikrishnan R" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "CHEL", "location": "Chemistry lab, ground floor", "faculty": "Dr. Nilisha Itankar" },
+          "09:45-10:45": { "subject": "CHEL", "location": "Chemistry lab, ground floor", "faculty": "Dr. Nilisha Itankar" },
+          "10:45-11:45": { "subject": "BCT", "location": "508", "faculty": "Dr. Amar Jain" },
+          "11:45-12:45": { "subject": "EM-II", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "IPPL", "location": "Civil computer lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "14:35-15:30": { "subject": "IPPL", "location": "Civil computer lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "DSML", "location": "SL", "faculty": "Humera Khanum" },
+          "09:45-10:45": { "subject": "DSML", "location": "SL", "faculty": "Humera Khanum" },
+          "10:45-11:45": { "subject": "EM-II", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "EM-IITUT", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "13:40-14:35": { "subject": "EM-IITUT", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "14:35-15:30": { "subject": "BSM", "location": "508", "faculty": "Dr. Harikrishnan R" },
+          "15:30-16:25": { "subject": "DSM", "location": "508", "faculty": "Dr. Rushikesh Kulkarni" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "STCE", "location": "Civil computer lab 1st floor", "faculty": "Pradnya Desai" },
+          "09:45-10:45": { "subject": "STCE", "location": "Civil computer lab 1st floor", "faculty": "Pradnya Desai" },
+          "10:45-11:45": { "subject": "BCT", "location": "508", "faculty": "Amar Jain" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "508", "faculty": "Nilisha Itankar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "508", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EM-II", "location": "508", "faculty": "Shahid Wani" },
+          "15:30-16:25": { "subject": "DSM", "location": "508", "faculty": "Dr. Rushikesh Kulkarni" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "HWM", "location": "508", "faculty": "Gayatri Dasare, Yoshita Shah, Dr. Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "508", "faculty": "Gayatri Dasare, Yoshita Shah, Dr. Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "CHE", "location": "508", "faculty": " Dr. Nilisha Itankar " },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "508", "faculty": "-" }
+        }
+      },
+      "A2": {
+        "Monday": {
+          "08:45-09:45": { "subject": "IPPL", "location": "Civil Computer Lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "09:45-10:45": { "subject": "IPPL", "location": "Civil Computer lab 1st floor", "faculty": " Dr. Rushikesh Kulkarni " },
+          "10:45-11:45": { "subject": "BCT", "location": "508", "faculty": "Amar Jain" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "508", "faculty": "Dr. Nilisha Itankar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EM-IITUT", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "14:35-15:30": { "subject": "EM-IITUT", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "15:30-16:25": { "subject": "BSM", "location": "508", "faculty": "Dr. Harikrishnan R" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "IPPL", "location": "Civil Computer lab, 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "09:45-10:45": { "subject": "IPPL", "location": "Civil computer lab 1st floor", "faculty": "Dr. Rushikesh Kulkarni" },
+          "10:45-11:45": { "subject": "BCT", "location": "508", "faculty": "Dr. Amar Jain" },
+          "11:45-12:45": { "subject": "EM-II", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DSML", "location": "SL", "faculty": "Humera Khanum" },
+          "14:35-15:30": { "subject": "DSML", "location": "SL", "faculty": "Humera Khanum" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "STCE", "location": "Civil computer lab, 1st floor", "faculty": "Pradnya Desai" },
+          "09:45-10:45": { "subject": "STCE", "location": "Cloud Computing lab, 5th floor", "faculty": "Pradnya Desai" },
+          "10:45-11:45": { "subject": "EM-II", "location": "508", "faculty": "Dr. Shahid Wani" },
+          "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "CHEL", "location": "Chemistry lab, Ground Floor", "faculty": "Prajakta Mukadam" },
+          "13:40-14:35": { "subject": "CHEL", "location": "Chemistry lab, Ground Floor", "faculty": "Prajakta Mukadam" },
+          "14:35-15:30": { "subject": "BSM", "location": "508", "faculty": "Dr. Harikrishnan R" },
+          "15:30-16:25": { "subject": "DSM", "location": "508", "faculty": "Dr. Rushikesh Kulkarni" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "BSML", "location": "ESIL 3rd floor", "faculty": "Dr. Harikrishnan R" },
+          "09:45-10:45": { "subject": "BSML", "location": "ESIL 3rd floor", "faculty": "Dr. Harikrishnan R" },
+          "10:45-11:45": { "subject": "BCT", "location": "508", "faculty": "Amar jain" },
+          "11:45-12:45": { "subject": "Chemistry", "location": "508", "faculty": "Nilisha Itankar" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CT", "location": "508", "faculty": "Sangeeta Randive" },
+          "14:35-15:30": { "subject": "EM-II", "location": "508", "faculty": "Shahid Wani" },
+          "15:30-16:25": { "subject": "DSM", "location": "508", "faculty": "Dr. Rushikesh Kulkarni" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "HWM", "location": "508", "faculty": "Gayatri Dasare, Yoshita Shah, Dr. Shrimathy Vijayaraghavan" },
+          "09:45-10:45": { "subject": "HWM", "location": "508", "faculty": "Gayatri Dasare, Yoshita Shah, Dr. Shrimathy Vijayaraghavan" },
+          "10:45-11:45": { "subject": "CHE", "location": "508", "faculty": " Dr. Nilisha Itankar " },
+          "11:45-12:45": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "14:35-15:30": { "subject": "Tinker Lab", "location": "First Year Time Table Sem-II AY:2024-25 w.e.f. 3rd January 2025 - Google Sheets", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "508", "faculty": "-" }
+        }
+      }
+    }
+  },
+  "Sophomore": {
+    "AIML": {
+      "A1": {
+        "Monday": {
+          "09:00-10:00": { "subject": "Advanced Python", "faculty": "Mr. Guido", "location": "Lab 3" },
+          "10:00-11:00": { "subject": "Machine Learning", "faculty": "Dr. Ng", "location": "AI-201" },
+          "11:00-12:00": { "subject": "Linear Algebra", "faculty": "Dr. Strang", "location": "MATH-301" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-16:00": { "subject": "ML Lab", "faculty": "Dr. Ng", "location": "Lab 4" },
+          "18:00-19:00": { "subject": "Natural Language Proc.", "faculty": "Dr. Manning", "location": "AI-301" }
+        },
+        "Tuesday": {
+          "10:00-11:00": { "subject": "Machine Learning", "faculty": "Dr. Ng", "location": "AI-201" },
+          "11:00-12:00": { "subject": "Linear Algebra", "faculty": "Dr. Strang", "location": "MATH-301" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-15:00": { "subject": "Advanced Python", "faculty": "Mr. Guido", "location": "Lab 3" },
+          "15:00-16:00": { "subject": "Natural Language Proc.", "faculty": "Dr. Manning", "location": "AI-301" }
+        },
+        "Wednesday": {
+          "09:00-10:00": { "subject": "Advanced Python", "faculty": "Mr. Guido", "location": "Lab 3" },
+          "10:00-11:00": { "subject": "Linear Algebra", "faculty": "Dr. Strang", "location": "MATH-301" },
+          "11:00-12:00": { "subject": "Machine Learning", "faculty": "Dr. Ng", "location": "AI-201" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-15:00": { "subject": "ML Lab", "faculty": "Dr. Ng", "location": "Lab 4" }
+        },
+        "Thursday": {
+          "10:00-11:00": { "subject": "Machine Learning", "faculty": "Dr. Ng", "location": "AI-201" },
+          "11:00-12:00": { "subject": "Linear Algebra", "faculty": "Dr. Strang", "location": "MATH-301" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-14:00": { "subject": "Natural Language Proc.", "faculty": "Dr. Manning", "location": "AI-301" },
+          "19:00-20:00": { "subject": "Guest Lecture: AI", "faculty": "Dr. Hinton", "location": "AUD-2" }
+        },
+        "Friday": {
+          "09:00-11:00": { "subject": "Project Work", "faculty": "Dr. LeCun", "location": "Project Room 1" },
+          "11:00-12:00": { "subject": "Advanced Python", "faculty": "Mr. Guido", "location": "Lab 3" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-15:00": { "subject": "Natural Language Proc.", "faculty": "Dr. Manning", "location": "AI-301" }
+        }
+      }
+    },
+    "CSE": {
+      "B1": {
+        "Monday": {
+          "09:00-10:00": { "subject": "Algorithms", "faculty": "Dr. Knuth", "location": "CS-301" },
+          "10:00-11:00": { "subject": "Operating Systems", "faculty": "Mr. Tanenbaum", "location": "CS-302" },
+          "11:00-12:00": { "subject": "Probability & Stats", "faculty": "Dr. Bayes", "location": "MATH-302" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-16:00": { "subject": "OS Lab", "faculty": "Mr. Tanenbaum", "location": "Lab 7" },
+          "18:00-19:00": { "subject": "Computer Networks", "faculty": "Dr. Perlman", "location": "CS-401" }
+        },
+        "Tuesday": {
+          "10:00-11:00": { "subject": "Operating Systems", "faculty": "Mr. Tanenbaum", "location": "CS-302" },
+          "11:00-12:00": { "subject": "Probability & Stats", "faculty": "Dr. Bayes", "location": "MATH-302" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "15:00-17:00": { "subject": "Hardware Lab", "faculty": "Mr. Moore", "location": "Lab 6" }
+        },
+        "Wednesday": {
+          "09:00-10:00": { "subject": "Algorithms", "faculty": "Dr. Knuth", "location": "CS-301" },
+          "10:00-11:00": { "subject": "Probability & Stats", "faculty": "Dr. Bayes", "location": "MATH-302" },
+          "11:00-12:00": { "subject": "Operating Systems", "faculty": "Mr. Tanenbaum", "location": "CS-302" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-15:00": { "subject": "OS Lab", "faculty": "Mr. Tanenbaum", "location": "Lab 7" }
+        },
+        "Thursday": {
+          "10:00-11:00": { "subject": "Operating Systems", "faculty": "Mr. Tanenbaum", "location": "CS-302" },
+          "11:00-12:00": { "subject": "Probability & Stats", "faculty": "Dr. Bayes", "location": "MATH-302" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-14:00": { "subject": "Computer Networks", "faculty": "Dr. Perlman", "location": "CS-401" },
+          "19:00-20:00": { "subject": "Competitive Prog.", "faculty": "Mr. Page", "location": "Compete-Hall" }
+        },
+        "Friday": {
+          "09:00-11:00": { "subject": "Project Work", "faculty": "Mr. Fowler", "location": "Project Room 2" },
+          "11:00-12:00": { "subject": "Algorithms", "faculty": "Dr. Knuth", "location": "CS-301" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-15:00": { "subject": "Computer Networks", "faculty": "Dr. Perlman", "location": "CS-401" }
+        }
+      }
+    },
+    "MECH": {
+      "D1": {
+        "Monday": {
+          "08:00-09:00": { "subject": "Thermodynamics", "faculty": "Dr. Carnot", "location": "MECH-101" },
+          "09:00-10:00": { "subject": "Mechanics", "faculty": "Dr. Hooke", "location": "MECH-102" },
+          "10:00-11:00": { "subject": "Calculus II", "faculty": "Dr. Leibniz", "location": "MATH-202" },
+          "11:00-12:00": { "subject": "Engineering Drawing", "faculty": "Prof. Vinci", "location": "DRAW-101" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-15:00": { "subject": "Workshop Practice", "faculty": "Mr. Wright", "location": "Workshop 1" }
+        },
+        "Tuesday": {
+          "09:00-10:00": { "subject": "Calculus II", "faculty": "Dr. Leibniz", "location": "MATH-202" },
+          "10:00-11:00": { "subject": "Thermodynamics", "faculty": "Dr. Carnot", "location": "MECH-101" },
+          "11:00-12:00": { "subject": "Mechanics", "faculty": "Dr. Hooke", "location": "MECH-102" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "14:00-16:00": { "subject": "Drawing Lab", "faculty": "Prof. Vinci", "location": "DRAW-Lab" }
+        },
+        "Wednesday": {
+          "08:00-09:00": { "subject": "Thermodynamics", "faculty": "Dr. Carnot", "location": "MECH-101" },
+          "09:00-10:00": { "subject": "Calculus II", "faculty": "Dr. Leibniz", "location": "MATH-202" },
+          "10:00-11:00": { "subject": "Engineering Drawing", "faculty": "Prof. Vinci", "location": "DRAW-101" },
+          "11:00-12:00": { "subject": "Mechanics", "faculty": "Dr. Hooke", "location": "MECH-102" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" }
+        },
+        "Thursday": {
+          "09:00-10:00": { "subject": "Calculus II", "faculty": "Dr. Leibniz", "location": "MATH-202" },
+          "10:00-11:00": { "subject": "Thermodynamics", "faculty": "Dr. Carnot", "location": "MECH-101" },
+          "11:00-12:00": { "subject": "Mechanics", "faculty": "Dr. Hooke", "location": "MECH-102" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" },
+          "13:00-15:00": { "subject": "Workshop Practice", "faculty": "Mr. Wright", "location": "Workshop 1" }
+        },
+        "Friday": {
+          "08:00-09:00": { "subject": "Thermodynamics", "faculty": "Dr. Carnot", "location": "MECH-101" },
+          "09:00-10:00": { "subject": "Mechanics", "faculty": "Dr. Hooke", "location": "MECH-102" },
+          "10:00-11:00": { "subject": "Engineering Drawing", "faculty": "Prof. Vinci", "location": "DRAW-101" },
+          "11:00-12:00": { "subject": "Calculus II", "faculty": "Dr. Leibniz", "location": "MATH-202" },
+          "12:00-13:00": { "subject": "Lunch Break", "faculty": "-", "location": "Cafeteria" }
+        }
+      }
+    }
+  }
+}
+
