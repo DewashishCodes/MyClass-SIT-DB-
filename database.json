@@ -68,6 +68,56 @@
             "A2":{},
             "A3":{},
             "B1":{
+                 "Monday": {
+          "08:45-09:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "09:45-10:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "10:45-11:45": { "subject": "DMGT", "location": "402", "faculty": "Dr. Javid Gani Dar" },
+          "11:45-12:45": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "DS", "location": "402", "faculty": "Dr. Sonali Kothari" },
+          "13:40-14:35": { "subject": "PP", "location": "402", "faculty": "Dr. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "DMGT Tut", "location": "D2", "faculty": "Dr. Amit Kumar" },
+          "15:30-16:25": { "subject": "DMGT Tut", "location": "D2", "faculty": "Dr. Amit Kumar" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10", "faculty": "Prof. Amol Kamble " },
+          "09:45-10:45": { "subject": "PP", "location": "402", "faculty": "Dr. Shwetambari Chiwhane" },
+          "10:45-11:45": { "subject": "CO", "location": "402", "faculty": "Prof. Ranjeet V Bidwe" },
+          "11:45-12:45": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "PPL", "location": "CL-08", "faculty": "Dr. Shwetambari Chiwhane" },
+          "13:40-14:35": { "subject": "PPL", "location": "CL-08", "faculty": "Dr. Shwetambari Chiwhane" },
+          "14:35-15:30": { "subject": "DMGT", "location": "402", "faculty": "Dr. Javid Gani Dar" },
+          "15:30-16:25": { "subject": "FOE", "location": "402", "faculty": "Mr. Toshan Nimal Das" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "SAM", "location": "406", "faculty": "Dr. Dipali Dakhole" },
+          "09:45-10:45": { "subject": "DS", "location": "406", "faculty": "Dr. Sonali Kothari" },
+          "10:45-11:45": { "subject": "SAML", "location": "3rd Floor Embedded System Lab", "faculty": "Dr. Dipali Dakhole" },
+          "11:45-12:45": { "subject": "SAML", "location": "3rd Floor Embedded System", "faculty": "Dr. Dipali Dakhole" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "DS", "location": "402", "faculty": "Dr. Sonali Kothari" },
+          "09:45-10:45": { "subject": "PP", "location": "402", "faculty": "Dr. Shwetambari Chiwhane" },
+          "10:45-11:45": { "subject": "SAM", "location": "402", "faculty": "Dr. Dipali Dakhole" },
+          "11:45-12:45": { "subject": "EV", "location": "402", "faculty": "Mr. Vinay Malshe" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CO", "location": "402", "faculty": "Prof. Ranjeet V Bidwe" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "DSL", "location":"CL-04", "faculty": "Prof. " },
+          "09:45-10:45": { "subject": "DSL", "location": "CL-04", "faculty": "Prof. " },
+          "10:45-11:45": { "subject": "Flexi Credit Full stack Development", "location": "CL-09 and CL-10", "faculty": "Dr. Amol Kamble" },
+          "11:45-12:45": { "subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10", "faculty": "Dr. Amol Kamble" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "CO", "location": "402", "faculty": "Prof. Ranjeet V Bidwe" },
+          "14:35-15:30": { "subject": "SAM", "location": "402", "faculty": "Dr. Dipali Dakhole" },
+          "15:30-16:25": { "subject": "DMGT", "location": "402", "faculty": "Dr. Javid Gani Dar" }
+        }
                 
             },
             "B2":{},
