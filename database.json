@@ -127,9 +127,9 @@
           "10:45-11:45": { "subject": "DCDS", "location": "502", "faculty": "Dr. Anjali More" },
           "11:45-12:45": { "subject": "", "location": "-", "faculty": "-" },
           "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
-          "13:40-14:35": { "subject": "", "location": "", "faculty": "" },
-          "14:35-15:30": { "subject": "", "location": "", "faculty": "" },
-          "15:30-16:25": { "subject": "", "location": "", "faculty": "" }
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
         }
 
             },
