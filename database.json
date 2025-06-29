@@ -277,6 +277,17 @@
             },
             "A2":{},
             "A3":{},
+            "A4":{
+                "Monday": {
+                    "8:45-9:45":{"subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar"},
+                    "9:45-10:45":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "10:45-11:45":{"subject": "DSL", "location": "CL-05,B Wing,5th floor","faculty": "Dr. Rupali Gangarde"},
+                    "11:45-12:45":{"subject": "DSL", "location": "CL-05,B Wing,5th floor","faculty": "Dr. Rupali Gangarde"},
+                    "12:45-13:40":{ "subject": "Lunch", "location": "-", "faculty": "-" },
+                    "13:40-14:35":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "14:35-15:30":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "ELH", "location": "-", "faculty": "-"}
+                },
             "B1":{},
             "B2":{},
             "B3":{
@@ -470,4 +481,5 @@
              "A3":{}
         }
     }
+}
 }
