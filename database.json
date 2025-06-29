@@ -1,13 +1,107 @@
 {
     "Freshman":{
-       
+       "Do NOT contribute anything here": null
     },
+
     "Sophomore":{
-         "ENTC":{},
-        "CSE":{},
-        "AIML":{},
-        "RNA":{},
-        "MECH":{},
-        "CIVIL":{}
+         "ENTC":{
+             "A1":{},
+             "A2":{},
+             "A3":{},
+             "B1":{
+                "Monday": {
+          "08:45-09:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+          "09:45-10:45": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+          "10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "14:35-15:30": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghhmare" },
+          "15:30-16:25": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "09:45-10:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "10:45-11:45": { "subject": "MTTT", "location": "Tut-1", "faculty": "Dr. Pratiksha Bhavsar" },
+          "11:45-12:45": { "subject": "MTTT", "location": "Tut-1", "faculty": "Dr. Pratiksha Bhavsar" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "MTTL", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar" },
+          "15:30-16:25": { "subject": "MTTL", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Marshiana D / Dr. Krithikaa Mohanarangam" },
+          "09:45-10:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Marshiana D / Dr. Krithikaa Mohanarangam" },
+          "10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Maker Lab", "location": "Maker Lab", "faculty": "-" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "09:45-10:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+          "10:45-11:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "11:45-12:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "CDS", "location": "CS-CL3", "faculty": "Dr. Kunal Shejul" },
+          "15:30-16:25": { "subject": "CDS", "location": "CS-CL3", "faculty": "Dr. Kunal Shejul" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Snehal Bhosale" },
+          "09:45-10:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+          "11:45-12:45": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EDC", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "BG-I/BF-I", "location": "D-301/D-302", "faculty": "Dr. Ms. Rasika Lanke/ Dr. Shilpa Hudnurkar" },
+          "15:30-16:25": { "subject": "BG-I/BF-I", "location": "D-301/D-302", "faculty": "Dr. Ms. Rasika Lanke/ Dr. Shilpa Hudnurkar" }
+        }
+             },
+             "B2":{},
+             "B3":{}
+         },
+        "CSE":{
+            "A1":{},
+            "A2":{},
+            "A3":{},
+            "B1":{},
+            "B2":{},
+            "B3":{},
+            "C1":{},
+            "C2":{},
+            "C3":{}
+        },
+        "AIML":{
+            "A1":{},
+            "A2":{},
+            "A3":{},
+            "B1":{},
+            "B2":{},
+            "B3":{},
+            "C1":{},
+            "C2":{},
+            "C3":{}
+        },
+        "RNA":{
+            "A1":{},
+             "A2":{},
+             "A3":{},
+             "B1":{},
+             "B2":{},
+             "B3":{}
+        },
+        "MECH":{
+             "A1":{},
+             "A2":{},
+             "A3":{}
+        },
+        "CIVIL":{
+             "A1":{},
+             "A2":{},
+             "A3":{}
+        }
     }
 }
