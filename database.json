@@ -5,7 +5,58 @@
 
     "Sophomore":{
          "ENTC":{
-             "A1":{},
+             "A1":{
+                "Monday": {
+  "08:45-09:45": { "subject": "NT", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+  "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+  "10:45-11:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Sumit Kumar" },
+  "11:45-12:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Sumit Kumar" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "MTTT", "location": "D-301", "faculty": "Mathematics New Faculty" },
+  "02:35-03:30": { "subject": "BG", "location": "RL:D-301", "faculty": "Ms. Rasika Lanke" },
+  "03:30-04:25": { "subject": "BG", "location": "RL:D-301", "faculty": "Ms. Rasika Lanke" }
+},
+"Tuesday": {
+  "08:45-09:45": { "subject": "EDC", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+  "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+  "10:45-11:45": { "subject": "NT", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+  "11:45-12:45": { "subject": "DCLD", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "Maker Lab", "location": "-", "faculty": "-" },
+  "02:35-03:30": { "subject": "MTTT", "location": "Tutorial Room-II", "faculty": "Mathematics New Faculty" },
+  "03:30-04:25": { "subject": "MTTT", "location": "Tutorial Room-II", "faculty": "Mathematics New Faculty" }
+},
+"Wednesday": {
+  "08:45-09:45": { "subject": "NT", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+  "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+  "10:45-11:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "11:45-12:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "EDC", "location": "CKC:D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+  "02:35-03:30": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+  "03:30-04:25": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" }
+},
+"Thursday": {
+  "08:45-09:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "09:45-10:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "10:45-11:45": { "subject": "MTTL", "location": "L1", "faculty": "Mathematics New Faculty" },
+  "11:45-12:45": { "subject": "MTTL", "location": "L1", "faculty": "Mathematics New Faculty" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "-", "location": "-", "faculty": "-" },
+  "02:35-03:30": { "subject": "DCLD", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+  "03:30-04:25": { "subject": "MTT", "location": "D-301", "faculty": "Mathematics New Faculty" }
+},
+"Friday": {
+  "08:45-09:45": { "subject": "DCLD", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+  "09:45-10:45": { "subject": "EDC", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+  "10:45-11:45": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "11:45-12:45": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "-", "location": "-", "faculty": "-" },
+  "02:35-03:30": { "subject": "BF", "location": "D-302", "faculty": "Dr. Shilpa Hudnurkar" },
+  "03:30-04:25": { "subject": "BF", "location": "D-302", "faculty": "Dr. Shilpa Hudnurkar" }
+}
+             },
              "A2":{},
              "A3":{},
              "B1":{
@@ -117,7 +168,58 @@
              }
          },
         "CSE":{
-            "A1":{},
+            "A1":{
+                "Monday": {
+  "08:45-09:45": { "subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar" },
+  "09:45-10:45": { "subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani" },
+  "10:45-11:45": { "subject": "Lab", "location": "-", "faculty": "-" },
+  "11:45-12:45": { "subject": "Lab", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari" },
+  "02:35-03:30": { "subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee" },
+  "03:30-04:25": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" }
+},
+"Tuesday": {
+  "08:45-09:45": { "subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari" },
+  "09:45-10:45": { "subject": "DMGT", "location": "405", "faculty": "Dr. Amit Kumar" },
+  "10:45-11:45": { "subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing)", "faculty": "Dr. Sonali Kothari" },
+  "11:45-12:45": { "subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing", "faculty": "Dr. Sonali Kothari" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "FOE", "location": "401", "faculty": "Dr. Toshan Nimal Das" },
+  "02:35-03:30": { "subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani" },
+  "03:30-04:25": { "subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing)", "faculty": "Prof. Amol Kamble" }
+},
+"Wednesday": {
+  "08:45-09:45": { "subject": "System Lab", "location": "-", "faculty": "-" },
+  "09:45-10:45": { "subject": "System Lab", "location": "-", "faculty": "-" },
+  "10:45-11:45": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
+  "11:45-12:45": { "subject": "SAM", "location": "Dr. Sudipta Banerjee", "faculty": "-" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "DS", "location": "406", "faculty": "Dr. Rupali Gangarde" },
+  "02:35-03:30": { "subject": "DSL", "location": "CL-04 (Computer Lab, B Wing)", "faculty": "Rupali Gangarde" },
+  "03:30-04:25": { "subject": "DSL", "location": "CL-04 (Computer Lab, B Wing)", "faculty": "Rupali Gangarde" }
+},
+"Thursday": {
+  "08:45-09:45": { "subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde" },
+  "09:45-10:45": { "subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde" },
+  "10:45-11:45": { "subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing)", "faculty": "Prof. Amol Kamble" },
+  "11:45-12:45": { "subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing)", "faculty": "Prof. Amol Kamble" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani" },
+  "02:35-03:30": { "subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee" },
+  "03:30-04:25": { "subject": "EV", "location": "401", "faculty": "Mr. Vinay Malshe" }
+},
+"Friday": {
+  "08:45-09:45": { "subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari" },
+  "09:45-10:45": { "subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar" },
+  "10:45-11:45": { "subject": "DMGT TUT", "location": "Tutorial Room D1", "faculty": "Dr. Amit Kumar" },
+  "11:45-12:45": { "subject": "DMGT TUT", "location": "Tutorial Room D1", "faculty": "Dr. Amit Kumar" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "Free", "location": "-", "faculty": "-" },
+  "02:35-03:30": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" },
+  "03:30-04:25": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" }
+}
+            },
             "A2":{},
             "A3":{},
             "B1":{},
