@@ -10,7 +10,57 @@
              "A3":{},
              "B1":{},
              "B2":{},
-             "B3":{}
+             "B3":{
+                "Monday": {
+                    "8:45-9:45": { "subject": "Mathematical Transform Techniques", "location": "D-302,Third floor", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "9:45-10:45": { "subject": "Electronic Devices and Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "10:45-11:45": { "subject": "Network Theory", "location": "D-302,Third Floor","faculty": "Dr. Anurag Mahajan"},
+                    "11:45-12:45": { "subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35": { "subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor", "faculty": "Dr. Sumit Kumar"},
+                    "14:35-15:35": { "subject": "C++ and Data Structures", "location": "L3", "faculty": "Dr. Kunal Shejul"},
+                    "15:30-16:25": { "subject": "C++ and Data Structures", "location": "L3", "faculty": "Dr. Kunal Shejul"}
+                },
+                "Tuesday": {
+                    "8:45-9:45": { "subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor", "faculty": "Dr. Sumit Kumar"},
+                    "9:45-10:45": { "subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "10:45-11:45": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6","faculty": "Dr. Krithikaa Mohanarangam"},
+                    "11:45-12:45": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6", "faculty": "Dr. Krithikaa Mohanarangam"},
+                    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35": { "subject": "C++ and Data Structures", "location": "L1", "faculty": "Dr. Kunal Shejul"},
+                    "15:30-16:25": { "subject": "C++ and Data Structures", "location": "L1", "faculty": "Dr. Kunal Shejul"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "Mathematical Transform Techniques Tutorial", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "9:45-10:45":{"subject": "Mathematical Transform Techniques Tutorial", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "10:45-11:45":{"subject": "Network Theory", "location": "D-302,Third Floor","faculty": "Dr. Anurag Mahajan"},
+                    "11:45-12:45":{"subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "12:45-13:40":{"subject": "Maker Lab", "location": "Ground floor,near Symbieat", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Mentor-Mentee meeting", "location": "-", "faculty": "-"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "Network Theory", "location": "D-302,Third Floor", "faculty": "Dr. Anurag Mahajan"},
+                    "9:45-10:45":{"subject": "Mathematical Transform Techniques", "location": "D-302,Third Floor", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "10:45-11:45":{"subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor","faculty": "Dr. Sumit Kumar"},
+                    "11:45-12:45":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "Electronic Devices and Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "14:35-15:35":{"subject": "Electronic Measurement Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare"},
+                    "15:30-16:25":{"subject": "Electronic Measurement Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Suman Lata Tripathi"},
+                    "9:45-10:45":{"subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Suman Lata Tripathi"},
+                    "10:45-11:45":{"subject": "Mathematical Transform Techniques Lab", "location": "L3","faculty": "Dr. Pratiksha Bhavsar"},
+                    "11:45-12:45":{"subject": "Mathematical Transform Techniques Lab", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "Electronic Devices Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "14:35-15:35":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"},
+                    "15:30-16:25":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"}
+             }
          },
         "CSE":{
             "A1":{},
