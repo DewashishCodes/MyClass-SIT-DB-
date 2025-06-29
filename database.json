@@ -8,9 +8,113 @@
              "A1":{},
              "A2":{},
              "A3":{},
-             "B1":{},
+             "B1":{
+                 "Monday": {
+          "08:45-09:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+          "09:45-10:45": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+          "10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "14:35-15:30": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghhmare" },
+          "15:30-16:25": { "subject": "EML", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "09:45-10:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "10:45-11:45": { "subject": "MTTT", "location": "Tut-1", "faculty": "Dr. Pratiksha Bhavsar" },
+          "11:45-12:45": { "subject": "MTTT", "location": "Tut-1", "faculty": "Dr. Pratiksha Bhavsar" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "MTTL", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar" },
+          "15:30-16:25": { "subject": "MTTL", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Marshiana D / Dr. Krithikaa Mohanarangam" },
+          "09:45-10:45": { "subject": "DCLDL", "location": "L6", "faculty": "Dr. Marshiana D / Dr. Krithikaa Mohanarangam" },
+          "10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Maker Lab", "location": "Maker Lab", "faculty": "-" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+          "09:45-10:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+          "10:45-11:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+          "11:45-12:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "CDS", "location": "CS-CL3", "faculty": "Dr. Kunal Shejul" },
+          "15:30-16:25": { "subject": "CDS", "location": "CS-CL3", "faculty": "Dr. Kunal Shejul" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Snehal Bhosale" },
+          "09:45-10:45": { "subject": "CDS", "location": "L2", "faculty": "Dr. Snehal Bhosale" },
+          "10:45-11:45": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+          "11:45-12:45": { "subject": "EDCL", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "EDC", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "BG-I/BF-I", "location": "D-301/D-302", "faculty": "Dr. Ms. Rasika Lanke/ Dr. Shilpa Hudnurkar" },
+          "15:30-16:25": { "subject": "BG-I/BF-I", "location": "D-301/D-302", "faculty": "Dr. Ms. Rasika Lanke/ Dr. Shilpa Hudnurkar" }
+        }
+
+             },
              "B2":{},
-             "B3":{}
+             "B3":{
+                 "Monday": {
+                    "8:45-9:45": { "subject": "Mathematical Transform Techniques", "location": "D-302,Third floor", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "9:45-10:45": { "subject": "Electronic Devices and Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "10:45-11:45": { "subject": "Network Theory", "location": "D-302,Third Floor","faculty": "Dr. Anurag Mahajan"},
+                    "11:45-12:45": { "subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35": { "subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor", "faculty": "Dr. Sumit Kumar"},
+                    "14:35-15:35": { "subject": "C++ and Data Structures", "location": "L3", "faculty": "Dr. Kunal Shejul"},
+                    "15:30-16:25": { "subject": "C++ and Data Structures", "location": "L3", "faculty": "Dr. Kunal Shejul"}
+                },
+                "Tuesday": {
+                    "8:45-9:45": { "subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor", "faculty": "Dr. Sumit Kumar"},
+                    "9:45-10:45": { "subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "10:45-11:45": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6","faculty": "Dr. Krithikaa Mohanarangam"},
+                    "11:45-12:45": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6", "faculty": "Dr. Krithikaa Mohanarangam"},
+                    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35": { "subject": "C++ and Data Structures", "location": "L1", "faculty": "Dr. Kunal Shejul"},
+                    "15:30-16:25": { "subject": "C++ and Data Structures", "location": "L1", "faculty": "Dr. Kunal Shejul"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "Mathematical Transform Techniques Tutorial", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "9:45-10:45":{"subject": "Mathematical Transform Techniques Tutorial", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "10:45-11:45":{"subject": "Network Theory", "location": "D-302,Third Floor","faculty": "Dr. Anurag Mahajan"},
+                    "11:45-12:45":{"subject": "Signals and Systems", "location": "D-302,Third Floor", "faculty": "Dr. Pritesh Shah"},
+                    "12:45-13:40":{"subject": "Maker Lab", "location": "Ground floor,near Symbieat", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Mentor-Mentee meeting", "location": "-", "faculty": "-"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "Network Theory", "location": "D-302,Third Floor", "faculty": "Dr. Anurag Mahajan"},
+                    "9:45-10:45":{"subject": "Mathematical Transform Techniques", "location": "D-302,Third Floor", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "10:45-11:45":{"subject": "Digital Circuits and Logic Design", "location": "D-302,Third Floor","faculty": "Dr. Sumit Kumar"},
+                    "11:45-12:45":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "Electronic Devices and Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "14:35-15:35":{"subject": "Electronic Measurement Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare"},
+                    "15:30-16:25":{"subject": "Electronic Measurement Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Suman Lata Tripathi"},
+                    "9:45-10:45":{"subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Suman Lata Tripathi"},
+                    "10:45-11:45":{"subject": "Mathematical Transform Techniques Lab", "location": "L3","faculty": "Dr. Pratiksha Bhavsar"},
+                    "11:45-12:45":{"subject": "Mathematical Transform Techniques Lab", "location": "L3", "faculty": "Dr. Pratiksha Bhavsar"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "Electronic Devices Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
+                    "14:35-15:35":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"},
+                    "15:30-16:25":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"}
+             }
+
+             }
          },
         "CSE":{
             "A1":{},
@@ -27,7 +131,59 @@
             "A1":{},
             "A2":{},
             "A3":{},
-            "B1":{},
+            "B1":{
+                "Monday": {
+          "08:45-09:45": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "09:45-10:45": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "10:45-11:45": { "subject": "Makers Lab", "location": "Makers Lab", "faculty": "-" },
+          "11:45-12:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "14:35-15:30": { "subject": "Design Thinking", "location": "502", "faculty": "Dr. Bhavna Ambudkar" },
+          "15:30-16:25": { "subject": "Design Thinking", "location": "502", "faculty": "Dr. Bhavna Ambudkar" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "OSL", "location": "NPL Lab,5th floor", "faculty": "Dr. Dhanashree Barbole" },
+          "09:45-10:45": { "subject": "OSL", "location": "NPL Lab,5th floor", "faculty": "Dr. Dhanashree Barbole" },
+          "10:45-11:45": { "subject": "DSA", "location": "502", "faculty": "Prof. Suman Tanwar" },
+          "11:45-12:45": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "FOE", "location": "502", "faculty": "Mr. Toshan Nimai Das" },
+          "14:35-15:30": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "15:30-16:25": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "DSA", "location": "502", "faculty": "Prof. Suman Tanwar" },
+          "09:45-10:45": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "10:45-11:45": { "subject": "DCDSL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Pooja Kamat" },
+          "11:45-12:45": { "subject": "DCDSL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Pooja Kamat" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DCDS", "location": "502", "faculty": "Dr. Anjali More" },
+          "14:35-15:30": { "subject": "DSAL", "location": "DPA Lab,5th floor", "faculty": "Prof. Geetanjali Sharma" },
+          "15:30-16:25": { "subject": "DSAL ", "location": "DPA Lab,5th floor", "faculty": "Prof. Geetanjali Sharma" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PRP(Tut)", "location": "502", "faculty": "Dr. Sangita Pant " },
+          "09:45-10:45": { "subject": "PRP", "location": "502", "faculty": "Dr. Nivedita Mishra" },
+          "10:45-11:45": { "subject": "DCDSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Pooja Kamat" },
+          "11:45-12:45": { "subject": "DCDSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Pooja Kamat" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DSA", "location": "502", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "PRP", "location": "502", "faculty": "Dr. Nivedita Mishra" },
+          "15:30-16:25": { "subject": "Club activity and mentor mentee meeting", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "DSAL", "location": "MDL Lab,5th Floor", "faculty": "Prof. Geetanjali Sharma" },
+          "09:45-10:45": { "subject": "DSAL", "location": "MDL Lab,5th Floor", "faculty": "Prof. Geetanjali Sharma" },
+          "10:45-11:45": { "subject": "DCDS", "location": "502", "faculty": "Dr. Anjali More" },
+          "11:45-12:45": { "subject": "", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+        }
+
+            },
             "B2":{},
             "B3":{},
             "C1":{},
