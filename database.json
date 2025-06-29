@@ -112,7 +112,62 @@
         }
 
              },
-             "B2":{},
+             "B2":{
+                "Monday": {
+"08:45-09:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+"09:45-10:45": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+"10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+"11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+"12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+"13:40-14:35": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+"14:35-15:30": { "subject": "MTTT", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar" },
+"15:30-16:25": { "subject": "MTTT", "location": "Tut-II", "faculty": "Dr. Pratiksha Bhavsar" }
+},
+
+"Tuesday": {
+"08:45-09:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+"09:45-10:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+"10:45-11:45": { "subject": "EML", "location": "L7 3rd floor", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+"11:45-12:45": { "subject": "EML", "location": "L7 3rd floor", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+"12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+"13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+"14:35-15:30": { "subject": "EDCL", "location": "L10 3rd floor", "faculty": "Dr. Suman Lata Tripathi" },
+"15:30-16:25": { "subject": "EDCL", "location": "L10 3rd floor", "faculty": "Dr. Suman Lata Tripathi" }
+},
+
+"Wednesday": {
+"08:45-09:45": { "subject": "CDS", "location": "L2 VLSI LAB 3rd floor", "faculty": "Dr. Snehal Bhosale" },
+"09:45-10:45": { "subject": "CDS", "location": "L2 VLSI LAB 3rd floor", "faculty": "Dr. Snehal Bhosale" },
+"10:45-11:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+"11:45-12:45": { "subject": "SS", "location": "D-302", "faculty": "Dr. Pritesh Shah" },
+"12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+"13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+"14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+"15:30-16:25": { "subject": "Mentor-Mentee", "location": "-", "faculty": "-" }
+},
+
+"Thursday": {
+"08:45-09:45": { "subject": "NT", "location": "D-302", "faculty": "Dr. Anurag Mahajan" },
+"09:45-10:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
+"10:45-11:45": { "subject": "DCLD", "location": "D-302", "faculty": "Dr. Sumit Kumar" },
+"11:45-12:45": { "subject": "Maker's Lab", "location": "Maker's Lab", "faculty": "-" },
+"12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+"13:40-14:35": { "subject": "EDC", "location": "D-302", "faculty": "Dr. Chandan Kumar Choubey" },
+"14:35-15:30": { "subject": "DCLDL", "location": "L6 3rd floor", "faculty": "Dr. Marshiana D" },
+"15:30-16:25": { "subject": "DCLDL", "location": "L6 3rd floor", "faculty": "Dr. Marshiana D" }
+},
+
+"Friday": {
+"08:45-09:45": { "subject": "MTTL", "location": "L1 DSP Lab 3rd Floor", "faculty": "Dr. Pratiksha Bhavsar" },
+"09:45-10:45": { "subject": "MTTL", "location": "L1 DSP Lab 3rd Floor", "faculty": "Dr. Pratiksha Bhavsar" },
+"10:45-11:45": { "subject": "CDS", "location": "L1 DSP Lab 3rd Floor", "faculty": "Dr. Snehal Bhosale" },
+"11:45-12:45": { "subject": "CDS", "location": "L1 DSP Lab 3rd Floor", "faculty": "Dr. Snehal Bhosale" },
+"12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+"13:40-14:35": { "subject": "EDC", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+"14:35-15:30": { "subject": "German/French", "location": "D-301/D-302", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar" },
+"15:30-16:25": { "subject": "German/French", "location": "D-301/D-302", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar" }
+}
+             },
              "B3":{
                  "Monday": {
                     "8:45-9:45": { "subject": "Mathematical Transform Techniques", "location": "D-302,Third floor", "faculty": "Dr. Pratiksha Bhavsar"},
