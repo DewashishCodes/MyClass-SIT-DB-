@@ -67,7 +67,9 @@
             "A1":{},
             "A2":{},
             "A3":{},
-            "B1":{},
+            "B1":{
+                
+            },
             "B2":{},
             "B3":{},
             "C1":{},
@@ -78,7 +80,59 @@
             "A1":{},
             "A2":{},
             "A3":{},
-            "B1":{},
+            "B1":{
+                "Monday": {
+          "08:45-09:45": { "subject": "DPEL", "location": "IMAC Lab", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "09:45-10:45": { "subject": "DPEL", "location": "IMAC Lab", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "10:45-11:45": { "subject": "Makers Lab", "location": "-", "faculty": "-" },
+          "11:45-12:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "14:35-15:30": { "subject": "Design Thinking", "location": "502", "faculty": "Dr. Bhavna Ambudkar" },
+          "15:30-16:25": { "subject": "Design Thinking", "location": "502", "faculty": "Dr. Bhavna Ambudkar" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "OSL", "location": "NPL Lab", "faculty": "Dr. Dhanashree Barbole" },
+          "09:45-10:45": { "subject": "OSL", "location": "NPL Lab", "faculty": "Dr. Dhanashree Barbole" },
+          "10:45-11:45": { "subject": "DSA", "location": "502", "faculty": "Prof. Suman Tanwar" },
+          "11:45-12:45": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "12:45-13:40": { "subject": "LUNCH", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "FOE", "location": "502", "faculty": "Mr. Toshan Nimai Das" },
+          "14:35-15:30": { "subject": "DPEL", "location": "IMAC Lab", "faculty": "Dr. Smita Rajendra Mahajan" },
+          "15:30-16:25": { "subject": "DPEL", "location": "IMAC Lab", "faculty": "Dr. Smita Rajendra Mahajan" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "DSA", "location": "502", "faculty": "Prof. Suman Tanwar" },
+          "09:45-10:45": { "subject": "OS", "location": "502", "faculty": "Dr. Dhanashree Barbole" },
+          "10:45-11:45": { "subject": "DCDSL", "location": "IMAC Lab", "faculty": "Dr. Pooja Kamat" },
+          "11:45-12:45": { "subject": "DCDSL", "location": "IMAC Lab", "faculty": "Dr. Pooja Kamat" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DCDS", "location": "502", "faculty": "Dr. Anjali More" },
+          "14:35-15:30": { "subject": "DSAL", "location": "DPA Lab", "faculty": "Prof. Geetanjali Sharma" },
+          "15:30-16:25": { "subject": "DSAL ", "location": "DPA Lab", "faculty": "Prof. Geetanjali Sharma" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "PRP(Tut)", "location": "502", "faculty": "Dr. Sangita Pant " },
+          "09:45-10:45": { "subject": "PRP", "location": "502", "faculty": "Dr. Nivedita Mishra" },
+          "10:45-11:45": { "subject": "DCDSL", "location": "MSA Lab", "faculty": "Dr. Pooja Kamat" },
+          "11:45-12:45": { "subject": "DCDSL", "location": "MSA Lab", "faculty": "Dr. Pooja Kamat" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "DSA", "location": "502", "faculty": "Dr. Chandan Kumar Choubey" },
+          "14:35-15:30": { "subject": "PRP", "location": "502", "faculty": "Dr. Nivedita Mishra" },
+          "15:30-16:25": { "subject": "Club activity and mentor mentee meeting", "location": "-", "faculty": "-" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "DSAL", "location": "MDL Lab", "faculty": "Prof. Geetanjali Sharma" },
+          "09:45-10:45": { "subject": "DSAL", "location": "MDL Lab", "faculty": "Prof. Geetanjali Sharma" },
+          "10:45-11:45": { "subject": "DCDS", "location": "502", "faculty": "Dr. Anjali More" },
+          "11:45-12:45": { "subject": "", "location": "-", "faculty": "-" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "", "location": "", "faculty": "" },
+          "14:35-15:30": { "subject": "", "location": "", "faculty": "" },
+          "15:30-16:25": { "subject": "", "location": "", "faculty": "" }
+        }
+
+            },
             "B2":{},
             "B3":{},
             "C1":{},
