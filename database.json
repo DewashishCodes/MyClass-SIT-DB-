@@ -60,15 +60,67 @@
                     "13:40-14:35":{"subject": "Electronic Devices Circuits", "location": "D-302,Third Floor", "faculty": "Dr. Chandan Kumar Choubey"},
                     "14:35-15:35":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"},
                     "15:30-16:25":{"subject": "Basic German/Basic French", "location": "D-301/D-302,Third Floor", "faculty": "Ms. Rasika Lanke/Dr. Shilpa Hudnurkar"}
-             }
-         },
+                }
+            }
+        },
         "CSE":{
             "A1":{},
             "A2":{},
             "A3":{},
             "B1":{},
             "B2":{},
-            "B3":{},
+            "B3":{
+                "Monday": {
+                    "8:45-9:45":{"subject": "DMGT_tut", "location": "D2,Tutorial lab", "faculty": "Dr. Javid Gani Dar"},
+                    "9:45-10:45":{"subject": "DMGT_tut", "location": "D2,Tutorial lab", "faculty": "Dr. Javid Gani Dar"},
+                    "10:45-11:45":{"subject": "DMGT", "location": "402,4th Floor","faculty": "Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "DS", "location": "402,4th Floor", "faculty": "Dr. Sashikala Mishra"},
+                    "13:40-14:35":{"subject": "PP", "location": "402,4th Floor", "faculty": "Dr. Shwetambari Chiwhane"},
+                    "14:35-15:35":{"subject": "SAML", "location": "3rd Floor Embedded", "faculty": "Dr. Dipali Dakhole"},
+                    "15:30-16:25":{"subject": "SAML", "location": "3rd Floor Embedded", "faculty": "Dr. Dipali Dakhole"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "Flexi-Credit", "location": "CL-09 and CL-10,4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "9:45-10:45":{"subject": "PP", "location": "402,4th Floor", "faculty": "Dr. Shwetambari Chiwhane"},
+                    "10:45-11:45":{"subject": "CO", "location": "402,4th Floor","faculty": "Mr. Ranjeet Bidwe"},
+                    "11:45-12:45":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "DSL", "location": "CL-05,4th Floor", "faculty": "Dr. Dipali Dakhole"},
+                    "13:40-14:35":{"subject": "DSL", "location": "CL-05,4th Floor", "faculty": "Dr. Dipali Dakhole"},
+                    "14:35-15:35":{"subject": "DMGT", "location": "402,4th Floor", "faculty": "Dr. Javid Gani Dar"},
+                    "15:30-16:25":{"subject": "FoE", "location": "402,4th Floor", "faculty": "Mr. Toshan Nimal Das"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "SAM", "location": "406,4th Floor", "faculty": "Dr. Dipali Dakhole"},
+                    "9:45-10:45":{"subject": "DS", "location": "406,4th Floor", "faculty": "Dr. Sashikala Mishra"},
+                    "10:45-11:45":{"subject": "ELH", "location": "-","faculty": "-"},
+                    "11:45-12:45":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "-", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "-", "location": "-", "faculty": "-"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "DS", "location": "402,4th Floor", "faculty": "Dr. Sashikala Mishra"},
+                    "9:45-10:45":{"subject": "PP", "location": "402,4th Floor", "faculty": "Dr. Shwetambari Chiwhane"},
+                    "10:45-11:45":{"subject": "SAM", "location": "402,4th Floor","faculty": "Dr. Dipali Dakhole"},
+                    "11:45-12:45":{"subject": "EV", "location": "402,4th Floor", "faculty": "Mr. Vinay Malshe"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "402,4th Floor", "faculty": "Prof. Ranjeet V Bidwe"},
+                    "14:35-15:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "ELH", "location": "-", "faculty": "-"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "PPL", "location": "CL-03,4th Floor", "faculty": "Dr. Shwetambari Chiwhane"},
+                    "9:45-10:45":{"subject": "PPL", "location": "CL-03,4th Floor", "faculty": "Dr. Shwetambari Chiwhane"},
+                    "10:45-11:45":{"subject": "Flexi-Credit", "location": "CL-09 and CL-10,4th Floor","faculty": "Prof. Amol Kamble"},
+                    "11:45-12:45":{"subject": "Flexi-Credit", "location": "CL-09 and CL-10,4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "402,4th Floor", "faculty": "Prof. Ranjeet V Bidwe"},
+                    "14:35-15:35":{"subject": "SAM", "location": "402,4th Floor", "faculty": "Dr. Dipali Dakhole"},
+                    "15:30-16:25":{"subject": "DGMT", "location": "402,4th Floor", "faculty": "Dr. Javid Gani Dar"}
+                }
+            },
             "C1":{},
             "C2":{},
             "C3":{}
