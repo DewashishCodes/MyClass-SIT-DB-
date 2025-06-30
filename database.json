@@ -931,7 +931,62 @@
 }   
              },
              "A2":{},
-             "A3":{}
+             "A3":{
+            "Monday": {
+            "08:45-09:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
+            "09:45-10:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "10:45-11:45": { "subject": "SOM", "location": "104", "faculty": "Dr. Shruti Maheshwari" },
+            "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "12:45-13:40": { "subject": "EM III Tut", "location": "104", "faculty": "Dr. Junaid Nisar" },
+            "13:40-14:35": { "subject": "EM III Tut", "location": "104", "faculty": "Dr. Junaid Nisar" },
+            "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+            "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+},
+
+            "Tuesday": {
+            "08:45-09:45": { "subject": "SOM", "location": "104", "faculty": "Dr. Shruti Maheshwari" },
+            "09:45-10:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
+            "10:45-11:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "12:45-13:40": { "subject": "ET Lab", "location": "ET Lab", "faculty": "Prof. Sreelekha Arun" },
+            "13:40-14:35": { "subject": "ET Lab", "location": "ET Lab", "faculty": "Prof. Sreelekha Arun" },
+            "14:35-15:30": { "subject": "MM Lab", "location": "SOM Lab", "faculty": "Prof. Vikas Gulia" },
+            "15:30-16:25": { "subject": "MM Lab", "location": "SOM Lab", "faculty": "Prof. Vikas Gulia" }
+            },
+
+            "Wednesday": {
+            "08:45-09:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "09:45-10:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "10:45-11:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+            "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "12:45-13:40": { "subject": "KOM Lab", "location": "TOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+            "13:40-14:35": { "subject": "KOM Lab", "location": "TOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+            "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+            "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+},
+
+           "Thursday": {
+            "08:45-09:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "09:45-10:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+            "10:45-11:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+            "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "12:45-13:40": { "subject": "SOM Lab", "location": "SOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+            "13:40-14:35": { "subject": "SOM Lab", "location": "SOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+            "14:35-15:30": { "subject": "German/French", "location": "104/103", "faculty": "-" },
+            "15:30-16:25": { "subject": "German/French", "location": "104/103", "faculty": "-" }
+},
+
+            "Friday": {
+            "08:45-09:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+            "09:45-10:45": { "subject": "SOM", "location": "104", "faculty": "Dr. Shruti Maheshwari" },
+            "10:45-11:45": { "subject": "EV", "location": "104", "faculty": "Mr. Vinay Malshe" },
+            "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "12:45-13:40": { "subject": "MM Lab", "location": "SOM Lab", "faculty": "Prof. Vikas Gulia" },
+            "13:40-14:35": { "subject": "MM Lab", "location": "SOM Lab", "faculty": "Prof. Vikas Gulia" },
+            "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+            "15:30-16:25": { "subject": "Dept. Meeting", "location": "-", "faculty":"-"}
+},
+             }
         },
         "CIVIL":{
              "A1":{},
