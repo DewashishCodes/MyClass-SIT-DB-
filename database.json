@@ -136,8 +136,108 @@
             "B2":{},
             "B3":{},
             "C1":{},
-            "C2":{},
-            "C3":{}
+            "C2":{"Monday":{
+                    "08:45-09:45":{"subject":"Library hour","location":"-","faculty":"-"},
+                    "09:45-10:45":{"subject":"Library hour","location":"-","faculty":"-"},
+                    "10:45-11:45":{"subject":"OSL","location":"CL-06,B Wing,5th floor","faculty":"Dr. Dhanashree Barbole"},
+                    "11:45-12:45":{"subject":"OSL","location":"CL-06,B Wing,5th floor","faculty":"Dr. Dhanashree Barbole"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"DCDS","location":"C504","faculty":"Dr. Archana Chaudhari"},
+                    "2:35-3:30":{"subject":"PRP","location":"C504","faculty":"Dr. Nivedita Mishra"},
+                    "3:30-4:25":{"subject":"FOE","location":"A501","faculty":"Mr. Toshan Nimai Das"}
+
+                },
+                "Tuesday":{
+                    "08:45-09:45":{"subject":"-","location":"-","faculty":"-"},
+                    "09:45-10:45":{"subject":"Design Thinking","location":"C505","faculty":"Dr. Bhavna Ambudkar"},
+                    "10:45-11:45":{"subject":"Design Thinking","location":"C505","faculty":"Dr. Bhavna Ambudkar"},
+                    "11:45-12:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"DCDSL","location":"CL-09,B Wing,5th floor","faculty":"Dr. Wasim Khan"},
+                    "2:35-3:30":{"subject":"DCDSL","location":"CL-09,B Wing,5th floor","faculty":"Dr. Wasim Khan"},
+                    "3:30-4:25":{"subject":"Club Activity & Mentor Mentee Meeting","location":"-","faculty":"-"}
+                },
+                "Wednesday":{
+                    "08:45-09:45":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "09:45-10:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "10:45-11:45":{"subject":"DCDSL","location":"CL-09,B Wing,5th floor","faculty":"Dr. Wasim Khan"},
+                    "11:45-12:45":{"subject":"DCDSL","location":"CL-09,B Wing,5th floor","faculty":"Dr. Wasim Khan"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"DCDS","location":"C504","faculty":"Dr. Archana Chaudhari"},
+                    "2:35-3:30":{"subject":"PRP-TUT","location":"C503","faculty":"Dr. Sangita Pant"},
+                    "3:30-4:25":{"subject":"Placement Preparation","location":"-","faculty":"-"}
+                },
+                "Thursday":{
+                    "08:45-09:45":{"subject":"-","location":"-","faculty":"-"},
+                    "09:45-10:45":{"subject":"Makers Lab","location":"Makers Lab","faculty":"-  "},
+                    "10:45-11:45":{"subject":"DSAL","location":"CL-07,B Wing,5th floor","faculty":"Suman Tanwar"},
+                    "11:45-12:45":{"subject":"DSAL","location":"CL-07,B Wing,5th floor","faculty":"Suman Tanwar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "2:35-3:30":{"subject":"DPEL","location":"CL-10,D Wing,5th floor","faculty":"Dr. Shrikrishna Kolhar"},
+                    "3:30-4:25":{"subject":"DPEL","location":"CL-10,D Wing,5th floor","faculty":"Dr. Shrikrishna Kolhar"}
+                },
+                "Friday":{
+                    "08:45-09:45":{"subject":"PRP","location":"C504","faculty":"Dr. Nivedita Mishra"},
+                    "09:45-10:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "10:45-11:45":{"subject":"DPEL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Shrikrishna Kolhar"},
+                    "11:45-12:45":{"subject":"DPEL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Shrikrishna Kolhar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "2:35-3:30":{"subject":"DSAL","location":"CL-04,B Wing, 5th floor","faculty":"Suman Tanwar"},
+                    "3:30-4:25":{"subject":"DSAL","location":"CL-04,B Wing, 5th floor","faculty":"Suman Tanwar"}
+                }},
+            "C3":{"Monday":{
+                    "08:45-09:45":{"subject":"DCDSL","location":"CL-11,D Wing, 5th floor","faculty":"Dr. Archana Chaudhari"},
+                    "09:45-10:45":{"subject":"DCDSL","location":"CL-11,D Wing, 5th floor","faculty":"Dr. Archana Chaudhari"},
+                    "10:45-11:45":{"subject":"DSAL","location":"CL-04,B Wing, 5th floor","faculty":"Suman Tanwar"},
+                    "11:45-12:45":{"subject":"DSAL","location":"CL-04,B Wing, 5th floor","faculty":"Suman Tanwar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"DCDS","location":"C504","faculty":"Dr. Archana Chaudhari"},
+                    "2:35-3:30":{"subject":"PRP","location":"C504","faculty":"Dr. Nivedita Mishra"},
+                    "3:30-4:25":{"subject":"FOE","location":"A501","faculty":"Mr. Toshan Nimai Das"}
+
+                },
+                "Tuesday":{
+                    "08:45-09:45":{"subject":"-","location":"-","faculty":"-"},
+                    "09:45-10:45":{"subject":"Design Thinking","location":"C505","faculty":"Dr. Bhavna Ambudkar"},
+                    "10:45-11:45":{"subject":"Design Thinking","location":"C505","faculty":"Dr. Bhavna Ambudkar"},
+                    "11:45-12:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"Makers Lab","location":"Makers Lab","faculty":"-"},
+                    "2:35-3:30":{"subject":"-","location":"-","faculty":"-"},
+                    "3:30-4:25":{"subject":"Club Activity & Mentor Mentee Meeting","location":"-","faculty":"-"}
+                },
+                "Wednesday":{
+                    "08:45-09:45":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "09:45-10:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "10:45-11:45":{"subject":"DCDSL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Archana Chaudhari"},
+                    "11:45-12:45":{"subject":"DCDSL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Archana Chaudhari"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"DCDS","location":"C504","faculty":"Dr. Archana Chaudhari"},
+                    "2:35-3:30":{"subject":"Library hour","location":"Library","faculty":"-"},
+                    "3:30-4:25":{"subject":"Placement Preparation","location":"-","faculty":"-"}
+                },
+                "Thursday":{
+                    "08:45-09:45":{"subject":"DSAL","location":"CL-03, A Wing, 5th floor","faculty":"Suman Tanwar"},
+                    "09:45-10:45":{"subject":"DSAL","location":"CL-03, A Wing, 5th floor","faculty":"Suman Tanwar"},
+                    "10:45-11:45":{"subject":"DPEL","location":"CL-11,D Wing, 5th floor","faculty":"Dr. Kuldeep Vaydande"},
+                    "11:45-12:45":{"subject":"DPEL","location":"CL-11,D Wing, 5th floor","faculty":"Dr. Kuldeep Vaydande"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "2:35-3:30":{"subject":"OSL","location":"CL-06,B Wing,5th floor","faculty":"Dr. Dhanashree Barbole"},
+                    "3:30-4:25":{"subject":"OSL","location":"CL-06,B Wing,5th floor","faculty":"Dr. Dhanashree Barbole"}
+                },
+                "Friday":{
+                    "08:45-09:45":{"subject":"PRP","location":"C504","faculty":"Dr. Nivedita Mishra"},
+                    "09:45-10:45":{"subject":"DSA","location":"C504","faculty":"Suman Tanwar"},
+                    "10:45-11:45":{"subject":"DPEL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Kuldeep Vaydande"},
+                    "11:45-12:45":{"subject":"DPEL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Kuldeep Vaydande"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"OS","location":"C504","faculty":"Dr. Dhanashree Barbole"},
+                    "2:35-3:30":{"subject":"PRP-TUT","location":"A501","faculty":"Dr. Sangita Pant"},
+                    "3:30-4:25":{"subject":"-","location":"-","faculty":"-"}
+                }}
         },
         "RNA":{
             "A1":{},
