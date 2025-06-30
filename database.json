@@ -19,9 +19,159 @@
             "B1":{},
             "B2":{},
             "B3":{},
-            "C1":{},
-            "C2":{},
-            "C3":{}
+            "C1":{"Monday":{
+                    "08:45-09:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "09:45-10:45":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "10:45-11:45":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "12:45-1:40":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "1:40-2:35":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "2:35-3:30":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "3:30-4:25":{"subject":"-","location":"-","faculty":"-"}
+
+                },
+                "Tuesday":{
+                    "08:45-09:45":{"subject":"FOE","location":"403","faculty":"Mr. Toshan Nimai Das"},
+                    "09:45-10:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "10:45-11:45":{"subject":"PPL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Vani Hiremani"},
+                    "11:45-12:45":{"subject":"PPL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Vani Hiremani"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"DSL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"},
+                    "3:30-4:25":{"subject":"DSL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"}
+                },
+                "Wednesday":{
+                    "08:45-09:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "09:45-10:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "10:45-11:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"DS","location":"401","faculty":"Dr. Anuradha Pillai"},
+                    "3:30-4:25":{"subject":"SAM","location":"401","faculty":"Dr. Nilima Zade"}
+                },
+                "Thursday":{
+                    "08:45-09:45":{"subject":"EV","location":"403","faculty":"Mr. Vinay Malshe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-03 & CL-04","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"DMGT-TUT","location":"Tutorial Room D1","faculty":"Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject":"DMGT-TUT","location":"Tutorial Room D1","faculty":"Dr. Javid Gani Dar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Dipali Dakhole"},
+                    "3:30-4:25":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Dipali Dakhole"}
+                },
+                "Friday":{
+                    "08:45-09:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "11:45-12:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "3:30-4:25":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"}
+                }},
+            "C2":{"Monday":{
+                   "08:45-09:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "09:45-10:45":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "10:45-11:45":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "12:45-1:40":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "1:40-2:35":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "2:35-3:30":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "3:30-4:25":{"subject":"-","location":"-","faculty":"-"}
+
+                },
+                "Tuesday":{
+                    "08:45-09:45":{"subject":"FOE","location":"403","faculty":"Mr. Toshan Nimai Das"},
+                    "09:45-10:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "10:45-11:45":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Nilima Zade"},
+                    "11:45-12:45":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Nilima Zade"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"Library","location":"-","faculty":"-"},
+                    "3:30-4:25":{"subject":"Library","location":"-","faculty":"-"}
+                },
+                "Wednesday":{
+                    "08:45-09:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "09:45-10:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "10:45-11:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"DS","location":"401","faculty":"Dr. Anuradha Pillai"},
+                    "3:30-4:25":{"subject":"SAM","location":"401","faculty":"Dr. Nilima Zade"}
+                },
+                "Thursday":{
+                    "08:45-09:45":{"subject":"EV","location":"403","faculty":"Mr. Vinay Malshe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-03 & CL-04","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"PPL","location":"CL-03, A Wing, 5th floor","faculty":"Dr. Vani Hiremani"},
+                    "11:45-12:45":{"subject":"PPL","location":"CL-03, A Wing, 5th floor","faculty":"Dr. Vani Hiremani"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"DMGT-TUT","location":"Tutorial Room D2","faculty":"Dr. Javid Gani Dar"},
+                    "3:30-4:25":{"subject":"DMGT-TUT","location":"Tutorial Room D2","faculty":"Dr. Javid Gani Dar"}
+                },
+                "Friday":{
+                    "08:45-09:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"DSL","location":"CL-05,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject":"DSL","location":"CL-05,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                     "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "3:30-4:25":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"}
+                }},
+            "C3":{"Monday":{
+                    "08:45-09:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "09:45-10:45":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "10:45-11:45":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "12:45-1:40":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "1:40-2:35":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "2:35-3:30":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "3:30-4:25":{"subject":"-","location":"-","faculty":"-"}
+
+                },
+                "Tuesday":{
+                    "08:45-09:45":{"subject":"FOE","location":"403","faculty":"Mr. Toshan Nimai Das"},
+                    "09:45-10:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "10:45-11:45":{"subject":"DSL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject":"DSL","location":"CL-07,B Wing,5th floor","faculty":"Dr. Anuradha Pillai"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"Library","location":"Library","faculty":"-"},
+                    "3:30-4:25":{"subject":"Library","location":"Library","faculty":"-"}
+                },
+                "Wednesday":{
+                     "08:45-09:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "09:45-10:45":{"subject":"Library","location":"Library","faculty":"-"},
+                    "10:45-11:45":{"subject":"DMGT","location":"403","faculty":"Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject":"PP","location":"403","faculty":"Dr. Vani Hiremani"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"DS","location":"401","faculty":"Dr. Anuradha Pillai"},
+                    "3:30-4:25":{"subject":"SAM","location":"401","faculty":"Dr. Nilima Zade"}
+                },
+                "Thursday":{
+                    "08:45-09:45":{"subject":"EV","location":"403","faculty":"Mr. Vinay Malshe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-03 & CL-04","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Nilima Zade"},
+                    "11:45-12:45":{"subject":"SAML","location":"Embedded Systems Lab,3rd floor","faculty":"Dr. Nilima Zade"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"ELH","location":"-","faculty":"-"},
+                    "2:35-3:30":{"subject":"PPL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Vani Hiremani"},
+                    "3:30-4:25":{"subject":"PPL","location":"CL-08,B Wing,5th floor","faculty":"Dr. Vani Hiremani"}
+                },
+                "Friday":{
+                    "08:45-09:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "09:45-10:45":{"subject":"Flexi Credit Course","location":"CL-09 & CL-10","faculty":"Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject":"DMGT-TUT","location":"Tutorial Room D2","faculty":"Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject":"DMGT-TUT","location":"Tutorial Room D2","faculty":"Dr. Javid Gani Dar"},
+                    "12:45-1:40":{"subject":"Lunch","location":"-","faculty":"-"},
+                    "1:40-2:35":{"subject":"CO","location":"403","faculty":"Dr. Sudipta Banerjee"},
+                    "2:35-3:30":{"subject":"SAM","location":"403","faculty":"Dr. Nilima Zade"},
+                    "3:30-4:25":{"subject":"DS","location":"403","faculty":"Dr. Anuradha Pillai"}
+                }}
         },
         "AIML":{
             "A1":{},
