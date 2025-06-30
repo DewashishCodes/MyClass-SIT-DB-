@@ -286,7 +286,58 @@
 
             },
             "B2":{},
-            "B3":{},
+            "B3":{
+                "Monday": {
+                    "8:45-9:45":{"subject": "-", "location": "-", "faculty": "-"},
+                    "9:45-10:45":{"subject": "Maker's Lab", "location": "Ground Floor,near Symbieat", "faculty": "-"},
+                    "10:45-11:45":{"subject": "DCDSL", "location": "MSA Lab,5th Floor","faculty": "Dr. Pooja Kamat"},
+                    "11:45-12:45":{"subject": "DCDSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Pooja Kamat"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "OS", "location": "502,5th Floor", "faculty": "Dr. Dhanashree Barbole"},
+                    "14:35-15:30":{"subject": "DT", "location": "502,5th Floor", "faculty": "Dr. Bhavna Ambudkar"},
+                    "15:30-16:25":{"subject": "DT", "location": "502,5th Floor", "faculty": "Dr. Bhavna Ambudkar"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "DCDSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Pooja Kamat"},
+                    "9:45-10:45":{"subject": "DCDSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Pooja Kamat"},
+                    "10:45-11:45":{"subject": "DSA", "location": "502,5th Floor","faculty": "Suman Tanwar"},
+                    "11:45-12:45":{"subject": "OS", "location": "502,5th Floor", "faculty": "Dr. Dhanashree Barbole"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "FoE", "location": "502,5th Floor", "faculty": "Mr. Toshan Nimal Das"},
+                    "14:35-15:30":{"subject": "DSAL", "location": "NLP Lab,5th Floor", "faculty": "Dr. Hema Karande"},
+                    "15:30-16:25":{"subject": "DSAL", "location": "NLP Lab,5th Floor", "faculty": "Dr. Hema Karande"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "DSA", "location": "502,5th Floor", "faculty": "Suman Tanwar"},
+                    "9:45-10:45":{"subject": "OS", "location": "502,5th Floor", "faculty": "Dr. Dhanashree Barbole"},
+                    "10:45-11:45":{"subject": "OSL", "location": "MSA Lab,5th Floor","faculty": "Dr. Sheetal Borhade"},
+                    "11:45-12:45":{"subject": "OSL", "location": "MSA Lab,5th Floor", "faculty": "Dr. Sheetal Borhade"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "DCDS", "location": "502,5th Floor", "faculty": "Dr. Anjali More"},
+                    "14:35-15:30":{"subject": "DSAL", "location": "MDL lab,5th Floor", "faculty": "Dr. Hema Karande"},
+                    "15:30-16:25":{"subject": "DSAL", "location": "MDL Lab,5th Floor", "faculty": "Dr. Hema Karande"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "-", "location": "-", "faculty": "-"},
+                    "9:45-10:45":{"subject": "PRP", "location": "502,5th Floor", "faculty": "Dr. Nivedita Mishra/Dr. Sangita Pant"},
+                    "10:45-11:45":{"subject": "DPEL", "location": "IMAC Lab,5th Floor","faculty": "Dr. Smita Rajendra Mahajan"},
+                    "11:45-12:45":{"subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "DSA", "location": "502,5th Floor", "faculty": "Suman Tanwar"},
+                    "14:35-15:30":{"subject": "PRP", "location": "502,5th Floor", "faculty": "Dr. Nivedita Mishra/Dr. Sangita Pant"},
+                    "15:30-16:25":{"subject": "Club Activity and Mentor-Mentee", "location": "-", "faculty": "-"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "DPEL", "location": "NLP Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan"},
+                    "9:45-10:45":{"subject": "DPEL", "location": "NLP Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan"},
+                    "10:45-11:45":{"subject": "DCDS", "location": "502,5th Floor","faculty": "Dr. Anjali More"},
+                    "11:45-12:45":{"subject": "PRP(Tut)", "location": "502,5th Floor", "faculty": "Dr. Nivedita Mishra/Dr. Sangita Pant"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "-", "location": "-", "faculty": "-"},
+                    "14:35-15:30":{"subject": "-", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "-", "location": "-", "faculty": "-"}
+		        }
+            },
             "C1":{},
             "C2":{},
             "C3":{}
