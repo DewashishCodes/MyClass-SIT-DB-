@@ -486,6 +486,7 @@
                     "15:30-16:25":{"subject": "DGMT", "location": "402,4th Floor", "faculty": "Dr. Javid Gani Dar"}
                 }
             },
+            "B4":{},
             "C1":{},
             "C2":{},
             "C3":{},
@@ -822,7 +823,58 @@
              "B3":{}
         },
         "MECH":{
-             "A1":{},
+             "A1":{
+              "Monday": {
+  "08:45-09:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
+  "09:45-10:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "10:45-11:45": { "subject": "SOM", "location": "104", "faculty": "-" },
+  "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "KOM Lab", "location": "KOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+  "01:40-02:35": { "subject": "KOM Lab", "location": "KOM Lab", "faculty": "Dr. Shruti Maheshwari" },
+  "02:35-03:30": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" },
+  "03:30-04:25": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" }
+},
+"Tuesday": {
+  "08:45-09:45": { "subject": "SOM", "location": "104", "faculty": "-" },
+  "09:45-10:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
+  "10:45-11:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" },
+  "01:40-02:35": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" },
+  "02:35-03:30": { "subject": "-", "location": "-", "faculty": "-" },
+  "03:30-04:25": { "subject": "-" , "location": "-", "faculty": "-" }
+},
+"Wednesday": {
+  "08:45-09:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "09:45-10:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "10:45-11:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+  "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "SOM Lab", "location": "SOM Lab", "faculty": "Dr. Shahid Tamboli" },
+  "01:40-02:35": { "subject": "SOM Lab", "location": "SOM Lab", "faculty": "Dr. Shahid Tamboli" },
+  "02:35-03:30": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" },
+  "03:30-04:25": { "subject": "MM Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" }
+},
+"Thursday": {
+  "08:45-09:45": { "subject": "KOM", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "09:45-10:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+  "10:45-11:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
+  "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "ET Lab", "location": "ET Lab", "faculty": "Prof. Sreelekha Arun" },
+  "01:40-02:35": { "subject": "ET Lab", "location": "ET Lab", "faculty": "Prof. Sreelekha Arun" },
+  "02:35-03:30": { "subject": "German/Spanish/French", "location": "103/104", "faculty": "-" },
+  "03:30-04:25": { "subject": "German/Spanish/French", "location": "103/104", "faculty": "-" }
+},
+"Friday": {
+  "08:45-09:45": { "subject": "EMM", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+  "09:45-10:45": { "subject": "SOM", "location": "104", "faculty": "-" },
+  "10:45-11:45": { "subject": "EV", "location": "104", "faculty": "Mr. Vinay Malshe" },
+  "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "12:45-01:40": { "subject": "EM III Tut", "location": "-", "faculty": "Dr. Junaid Nisar" },
+  "01:40-02:35": { "subject": "EM III Tut", "location": "-", "faculty": "Dr. Junaid Nisar" },
+  "02:35-03:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+  "03:30-04:25": { "subject": "Dept Meeting", "location": "-", "faculty": "-" }
+}   
+             },
              "A2":{},
              "A3":{}
         },
