@@ -123,8 +123,60 @@
             },
             "C1":{},
             "C2":{},
-            "C3":{}
-        },
+            "C3":{},
+            "C4":{
+                "Monday": {
+                    "8:45-9:45":{"subject": "PP", "location": "403,4th Floor", "faculty": "Dr. Vani Hiremani"},
+                    "9:45-10:45":{"subject": "CO", "location": "403,4th Floor", "faculty": "Dr. Sudipta Banerjee"},
+                    "10:45-11:45":{"subject": "DS", "location": "403,4th Floor","faculty": "Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "SAM", "location": "403,4th Floor", "faculty": "Dr. Nilima Zade"},
+                    "13:40-14:35":{"subject": "DMGT", "location": "403,4th Floor", "faculty": "Dr. Javid Gani Dar"},
+                    "14:35-15:30":{"subject": "PP", "location": "403,4th Floor", "faculty": "Dr. Vani Hiremani"},
+                    "15:30-16:25":{"subject": "-", "location": "-", "faculty": "-"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "FoE", "location": "403,4th Floor", "faculty": "Mr. Toshan Nimal Das"},
+                    "9:45-10:45":{"subject": "DMGT", "location": "403,4th Floor", "faculty": "Dr. Javid Gani Dar"},
+                    "10:45-11:45":{"subject": "DMGT Tut", "location": "D1,4th FLoor","faculty": "Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject": "DMGT Tut", "location": "D1,4th FLoor", "faculty": "Dr. Javid Gani Dar"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "403,4th Floor", "faculty": "Dr. Sudipta Banerjee"},
+                    "14:35-15:30":{"subject": "SAML", "location": "-", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "SAML", "location": "-", "faculty": "Dr. Sudipta Banerjee"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "Library", "location": "Library,1st Floor", "faculty": "-"},
+                    "9:45-10:45":{"subject": "Library", "location": "Library,1st Floor", "faculty": "-"},
+                    "10:45-11:45":{"subject": "DMGT", "location": "403,4th Floor","faculty": "Dr. Javid Gani Dar"},
+                    "11:45-12:45":{"subject": "PP", "location": "403,4th Floor", "faculty": "Dr. Vani Hiremani"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:30":{"subject": "DS", "location": "401,4th Floor", "faculty": "Dr. Anuradha Pillai"},
+                    "15:30-16:25":{"subject": "SAM", "location": "401,4th Floor", "faculty": "Dr. Nilima Zade"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "EV", "location": "403,4th Floor", "faculty": "Mr. Vinay Malshe"},
+                    "9:45-10:45":{"subject": "Flexi-Credit", "location": "CL-03 and CL-04,4th Floor", "faculty": "Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject": "DSL", "location": "CL-08,4th Floor","faculty": "Dr. Anuradha Pillai"},
+                    "11:45-12:45":{"subject": "DSL", "location": "CL-08,4th Floor", "faculty": "Dr. Anuradha Pillai"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:30":{"subject": "Library", "location": "Library,1st Floor", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Library", "location": "Library,1st Floor", "faculty": "-"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "Flexi-Credit", "location": "CL-09 and CL-10,4th Floor", "faculty": "Dr. Pravin Mundhe"},
+                    "9:45-10:45":{"subject": "Flexi-Credit", "location": "CL-09 and CL-10,4th Floor", "faculty": "Dr. Pravin Mundhe"},
+                    "10:45-11:45":{"subject": "PPL", "location": "CL-03,4th Floor","faculty": "Dr. Vani Hiremani"},
+                    "11:45-12:45":{"subject": "PPL", "location": "CL-03,4th Floor", "faculty": "Dr. Vani Hiremani"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "403,4th Floor", "faculty": "Dr. Sudipta Banerjee"},
+                    "14:35-15:30":{"subject": "SAM", "location": "403,4th Floor", "faculty": "Dr. Nilima Zade"},
+                    "15:30-16:25":{"subject": "DS", "location": "403,4th Floor", "faculty": "Dr. Anuradha Pillai"}
+		        }
+            }
+        },    
         "AIML":{
             "A1":{},
             "A2":{},
