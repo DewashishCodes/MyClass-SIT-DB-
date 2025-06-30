@@ -433,7 +433,62 @@
           "15:30-16:25": { "subject": "DMGT", "location": "402", "faculty": "Dr. Javid Gani Dar" }
         }
             },
-            "B2":{},
+            "B2":{
+              "Monday": {
+    "08:45-09:45": { "subject": "-", "location": "-", "faculty": "-" },
+    "09:45-10:45": { "subject": "-", "location": "-" , "faculty": "-" },
+    "10:45-11:45": { "subject": "DMGT", "location": "402,4th Floor", "faculty": "Dr Javid Gani Dar" },
+    "11:45-12:45": { "subject": "Break", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "DS", "location": "402,4th Floor", "faculty":"Dr Shashikala Mishra" },
+    "13:40-14:35": { "subject": "PP", "location": "402,4th Floor",  "faculty": "Amitabh Chiwhane" },
+    "14:35-15:30": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" }
+  },
+
+"Tuesday": {
+    "08:45-09:45": { "subject": "Flexi Credit Course Full Stack Development", "location": "CL-10,CL-09,4th Floor", "faculty": "Prof Amol Kamble" },
+    "09:45-10:45": { "subject": "PP", "location": "402,4th Floor", "faculty": "Amitabh Chiwhane" },
+    "10:45-11:45": { "subject": "CO", "location": "402,4th Floor", "faculty": "Mr Ranjeet Bidawe" },
+    "11:45-12:45": { "subject": "Break", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "DSL", "location": "CL-07,4th Floor", "faculty": "Dr Shashikala Mishra" },
+    "13:40-14:35": { "subject": "DSL", "location": "CL-07,4th Floor", "faculty": "Dr Shashikala Mishra" },
+    "14:35-15:30": { "subject": "DMGT", "location": "402,4th Floor", "faculty": "Dr Javid Gani Dar" },
+    "15:30-16:25": { "subject": "FOE", "location": "402,4th Floor", "faculty": "Mr Toshan Das" }
+  },
+
+"Wednesday": {
+    "08:45-09:45": { "subject": "SAM", "location": "406,4th Floor", "faculty": "Dr Dipali Dakhole" },
+    "09:45-10:45": { "subject": "DS", "location": "406,4th Floor", "faculty":"Dr Shashikala Mishra" },
+    "10:45-11:45": { "subject": "PPL", "location": "CL-06,4th Floor", "faculty": "Amitabh Chiwhane" },
+    "11:45-12:45": { "subject": "PPL", "location": "CL-06,4th Floor", "faculty": "Amitabh Chiwhane" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "-", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "-", "location": "-", "faculty": "-" }
+},
+
+"Thursday": {
+    "08:45-09:45": { "subject": "DS", "location": "402,4th Floor", "faculty":"Dr Shashikala Mishra" },
+    "09:45-10:45": { "subject": "PP", "location": "402,4th Floor",  "faculty": "Amitabh Chiwhane" },
+    "10:45-11:45":{ "subject": "SAM", "location": "406,4th Floor", "faculty": "Dr Dipali Dakhole" },
+    "11:45-12:45": { "subject": "EV", "location": "402,4th Floor", "faculty": "Mr Vinay Malshe" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "CO", "location": "402,4th Floor", "faculty": "Mr Ranjeet Bidawe" },
+    "14:35-15:30": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" }
+},
+
+"Friday": {
+    "08:45-09:45": { "subject": "DMGT_tut", "location": "D2,4th Floor", "faculty":"Dr Javid Gani Dar" },
+    "09:45-10:45": { "subject": "DMGT_tut", "location": "D2,4th Floor", "faculty":"Dr Javid Gani Dar" },
+    "10:45-11:45": { "subject": "Flexi Credit Course Full Stack Development", "location": "CL-10,CL-09,4th Floor", "faculty": "Prof Amol Kamble" },
+    "11:45-12:45": { "subject": "Flexi Credit Course Full Stack Development", "location": "CL-10,CL-09,4th Floor", "faculty": "Prof Amol Kamble" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "CO", "location": "402,4th Floor", "faculty": "Mr Ranjeet Bidawe" },
+    "14:35-15:30": { "subject": "SAM", "location": "406,4th Floor", "faculty": "Dr Dipali Dakhole" },
+    "15:30-16:25": { "subject": "DMGT", "location": "402,4th Floor", "faculty": "Dr Javid Gani Dar" }
+}
+            },
             "B3":{
                 "Monday": {
                     "8:45-9:45":{"subject": "DMGT_tut", "location": "D2,Tutorial lab", "faculty": "Dr. Javid Gani Dar"},
@@ -653,7 +708,62 @@
         }
 
             },
-            "B2":{},
+            "B2":{
+              "Monday": {
+    "08:45-09:45": { "subject": "OSL", "location": "NLP Lab,5th Floor B wing", "faculty": " Dr Sheetal Borhade" },
+    "09:45-10:45": { "subject": "OSL", "location": "NLP Lab,5th Floor B wing", "faculty": " Dr Sheetal Borhade" },
+    "10:45-11:45": { "subject": "DPEL", "location": "Imac Lab,5th Floor", "faculty": "Dr Smita Rajendra Mahajan" },
+    "11:45-12:45": { "subject": "DPEL", "location": "Imac Lab,5th Floor", "faculty": "Dr Smita Rajendra Mahajan" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "OS", "location": "502,5th floor A wing", "faculty": "Dr Dhanshree Barbole" },
+    "14:35-15:30": { "subject": "Design Thinking", "location": "502,5th floor A wing", "faculty": "Dr Bhavana Ambudkar" },
+    "15:30-16:25": { "subject": "Design Thinking", "location": "502,5th floor A wing", "faculty": "Dr Bhavana Ambudkar" }
+  },
+
+"Tuesday": {
+    "08:45-09:45": { "subject": "DPEL", "location": "Imac Lab,5th Floor", "faculty": "Dr Smita Rajendra Mahajan" },
+    "09:45-10:45": { "subject": "DPEL", "location": "Imac Lab,5th Floor", "faculty": "Dr Smita Rajendra Mahajan" },
+    "10:45-11:45": { "subject": "DSA", "location": "502,5th floor A wing", "faculty": "Suman Tanwar" },
+    "11:45-12:45": { "subject": "OS", "location": "502,5th floor A wing", "faculty": "Dr Dhanshree Barbole" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "FOE", "location": "502,5th floor A wing", "faculty": "Mr Toshan Nimai Das" },
+    "14:35-15:30": { "subject": "DCDSL", "location": "MSA lab,5th floor B wing", "faculty": "Dr Pooja Kamat" },
+    "15:30-16:25": { "subject": "DCDSL", "location": "MSA lab,5th floor B wing", "faculty": "Dr Pooja Kamat" }
+},
+
+"Wednesday": {
+    "08:45-09:45": { "subject": "DSA", "location": "502,5th floor A wing", "faculty": "Suman Tanwar" },
+    "09:45-10:45": { "subject": "OS", "location": "502,5th floor A wing", "faculty": "Dr Dhanshree Barbole" },
+    "10:45-11:45": { "subject": "DSAL", "location": "MSA lab,5th floor B wing", "faculty": "Dr Hema Karande" },
+    "11:45-12:45": { "subject": "DSAL", "location": "MSA lab,5th floor B wing", "faculty": "Dr Hema Karande" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "DCDS", "location": "502,5th floor A wing", "faculty": "Dr Anjali More" },
+    "14:35-15:30": { "subject": "PRP(tut)", "location": "502,5th floor A wing", "faculty": "Dr Sangita Pant" },
+    "15:30-16:25": { "subject": "PRP(tut)", "location": "502,5th floor A wing", "faculty": "Dr Sangita Pant" }
+  },
+
+"Thursday": {
+    "08:45-09:45": { "subject": "Maker's Lab", "location": "-", "faculty": "-" },
+    "09:45-10:45": { "subject": "PRP", "location": "502,5th floor A wing", "faculty": "Dr Sangita Pant" },
+    "10:45-11:45": { "subject": "DSAL", "location": "MDL lab ,5th Floor", "faculty": "Dr Hema Karande" },
+    "11:45-12:45": { "subject": "DSAL", "location": "MDL lab ,5th Floor", "faculty": "Dr Hema Karande" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "DSA", "location": "502,5th floor A wing", "faculty": "Suman Tanwar" },
+    "14:35-15:30": { "subject": "PRP", "location": "502,5th floor A wing", "faculty": "Dr Sangita Pant" },
+    "15:30-16:25": { "subject": "Club Activity and Mentor mentee meeting", "location": "-", "faculty": "-" }
+  },
+
+"Friday": {
+    "08:45-09:45": { "subject": "DCDLS", "location": "MSA lab,5th floor B wing", "faculty": "Dr Pooja Kamat" },
+    "09:45-10:45": { "subject": "DCDLS", "location": "MSA lab,5th floor B wing", "faculty": "Dr Pooja Kamat" },
+    "10:45-11:45": { "subject": "DCDS", "location": "502,5th floor A wing", "faculty": "Dr Anjali More" },
+    "11:45-12:45": { "subject": "-", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "-", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "-", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "-", "location": "-", "faculty": "-" }
+  }
+            },
             "B3":{
               "Monday": {
                     "8:45-9:45":{"subject": "-", "location": "-", "faculty": "-"},
