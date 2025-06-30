@@ -276,7 +276,111 @@
 }
             },
             "A2":{},
-            "A3":{},
+            "A3":{
+              "Monday": {
+                    "8:45-9:45":{"subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar"},
+                    "9:45-10:45":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "10:45-11:45":{"subject": "DMGT TUT", "location": "D2,Tutorial lab 4th floor","faculty": "Dr. Amit Kumar"},
+                    "11:45-12:45":{"subject": "DMGT TUT", "location": "D2,Tutorial lab 4th floor","faculty": "Dr. Amit Kumar"},
+                    "12:45-13:40":{ "subject": "Lunch", "location": "-", "faculty": "-" },
+                    "13:40-14:35":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "14:35-15:30":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "ELH", "location": "-", "faculty": "-"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "9:45-10:45":{"subject": "DMGT", "location": "405", "faculty": "Dr. Amit Kumar"},
+                    "10:45-11:45":{"subject": "DSL", "location": "CL-04 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Rupali Gangarde"},
+                    "11:45-12:45":{"subject": "DSL", "location": "CL-04 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Rupali Gangarde"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "FOE", "location": "401", "faculty": "Dr. Toshan Nimal Das"},
+                    "14:35-15:35":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "15:30-16:25":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Sonali Kothari"},
+                    "9:45-10:45":{"subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Sonali Kothari"},
+                    "10:45-11:45":{"subject": "ELH", "location": "-","faculty": "-"},
+                    "11:45-12:45":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "DS", "location": "406", "faculty": "Dr. Rupali Gangarde"},
+                    "14:35-15:35":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Free", "location": "-", "faculty": "-"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde"},
+                    "9:45-10:45":{"subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde"},
+                    "10:45-11:45":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "11:45-12:45":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "14:35-15:35":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "EV", "location": "401", "faculty": "Mr. Vinay Malshe"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "9:45-10:45":{"subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar"},
+                    "10:45-11:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "11:45-12:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-"}
+                }
+
+            },
+            "A4":{
+              "Monday": {
+                    "8:45-9:45":{"subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar"},
+                    "9:45-10:45":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "10:45-11:45":{"subject": "DSL", "location": "CL-05,B Wing,5th floor","faculty": "Dr. Rupali Gangarde"},
+                    "11:45-12:45":{"subject": "DSL", "location": "CL-05,B Wing,5th floor","faculty": "Dr. Rupali Gangarde"},
+                    "12:45-13:40":{ "subject": "Lunch", "location": "-", "faculty": "-" },
+                    "13:40-14:35":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "14:35-15:30":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "ELH", "location": "-", "faculty": "-"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "9:45-10:45":{"subject": "DMGT", "location": "405", "faculty": "Dr. Amit Kumar"},
+                    "10:45-11:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "11:45-12:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "FOE", "location": "401", "faculty": "Dr. Toshan Nimal Das"},
+                    "14:35-15:35":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "15:30-16:25":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "DMGT TUT", "location": "D2,Tutorial lab 4th floor", "faculty": "Dr. Amit Kumar"},
+                    "9:45-10:45":{"subject": "DMGT TUT", "location": "D2,Tutorial lab 4th floor", "faculty": "Dr. Amit Kumar"},
+                    "10:45-11:45":{"subject": "ELH", "location": "-","faculty": "-"},
+                    "11:45-12:45":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "DS", "location": "406", "faculty": "Dr. Rupali Gangarde"},
+                    "14:35-15:35":{"subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Deepali Vora"},
+                    "15:30-16:25":{"subject": "PPL", "location": "CL-03 (Computer Labs, B-Wing), 4th floor", "faculty": "Dr. Deepali Vora"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde"},
+                    "9:45-10:45":{"subject": "DS", "location": "401", "faculty": "Dr. Rupali Gangarde"},
+                    "10:45-11:45":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "11:45-12:45":{"subject": "Flexi-Credit Full Stack Development", "location": "CL-09 and CL-10 (Computer Labs, B Wing), 4th Floor", "faculty": "Prof. Amol Kamble"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "CO", "location": "401", "faculty": "Dr. Vani Hiremani"},
+                    "14:35-15:35":{"subject": "SAM", "location": "401", "faculty": "Dr. Sudipta Banerjee"},
+                    "15:30-16:25":{"subject": "EV", "location": "401", "faculty": "Mr. Vinay Malshe"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "PP", "location": "401", "faculty": "Dr. Sonali Kothari"},
+                    "9:45-10:45":{"subject": "DMGT", "location": "401", "faculty": "Dr. Amit Kumar"},
+                    "10:45-11:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "11:45-12:45":{"subject": "Free", "location": "-", "faculty": "-"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "ELH", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-"}
+                }
+            },
             "B1":{
               "Monday": {
           "08:45-09:45": { "subject": "ELH", "location": "-", "faculty": "-" },
