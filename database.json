@@ -547,7 +547,62 @@
 
             },
             "A2":{},
-            "A3":{},
+            "A3":{
+              "Monday": {
+        "08:45-09:45": { "subject": "DSAL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "09:45-10:45": { "subject": "DSAL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "10:45-11:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+        "11:45-12:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "14:35-15:30": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "15:30-16:25": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" }
+},
+
+"Tuesday": {
+        "08:45-09:45": { "subject": "DCDSL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "09:45-10:45": { "subject": "DCDSL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "10:45-11:45": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "11:45-12:45": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "14:35-15:30": { "subject": "FOE", "location": "TND", "faculty": "Mr. Toshan Nimai Das" },
+        "15:30-16:25": { "subject": "PRP(Tut)", "location": "502", "faculty":"Dr. Nivedita Mishra"}
+},
+
+"Wednesday": {
+        "08:45-09:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "09:45-10:45": { "subject": "Maker's Lab", "location": "Maker's Lab Ground Floor", "faculty": "-" },
+        "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+        "11:45-12:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali More" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "14:35-15:30": { "subject": "OSL", "location": "NLP Lab 5th Floor", "faculty": "Dr. Sheetal Borhade" },
+        "15:30-16:25": { "subject": "OSL", "location": "NLP Lab 5th Floor", "faculty": "Dr. Sheetal Borhade" }
+},
+
+"Thursday": {
+        "08:45-09:45": { "subject": "DCDSL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "09:45-10:45": { "subject": "", "location": "", "faculty": "" },
+        "10:45-11:45": { "subject": "DSAL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "11:45-12:45": { "subject": "", "location": "", "faculty": "" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "14:35-15:30": { "subject": "Library Hour", "location": "Library, 1st Floor", "faculty": "-" },
+        "15:30-16:25": { "subject": "Club Activity and Mentor-Mentee", "location": "-", "faculty":"-"}
+},
+
+"Friday": {
+        "08:45-09:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali More" },
+        "09:45-10:45": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+        "11:45-12:45": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+}
+            },
             "B1":{
                 "Monday": {
           "08:45-09:45": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" },
