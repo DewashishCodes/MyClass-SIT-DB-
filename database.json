@@ -542,7 +542,7 @@
   "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
   "01:40-02:35": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
   "02:35-03:30": { "subject": "-", "location": "-", "faculty": "-" },
-  "03:30-04:25": { "subject": "-", "location": "-", "faculty": "-" }
+  "03:30-04:25": { "subject": "-", "location": "-", "faculty": "-" },
 }
 
             },
@@ -815,7 +815,112 @@
             }
         },
         "RNA":{
-            "A1":{},
+            "A1":{
+"Monday": {
+  "08:45-09:45": { "subject": "DPEL", "location": "Data Processing and Analytics Lab (Computer Lab 9, B Wing)", "faculty": "Dr. Anjali Dalvi" },
+  "09:45-10:45": { "subject": "DPEL", "location": "Data Processing and Analytics Lab (Computer Lab 9, B Wing)", "faculty": "Dr. Anjali Dalvi" },
+  "10:45-11:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+  "11:45-12:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+  "02:35-03:30": { "subject": "DCDSL", "location": "Multimodal Sensor Analytics Lab (Computer Lab 8, B Wing)", "faculty": "Dr. Wasim Khan" },
+  "03:30-04:25": { "subject": "DCDSL", "location": "Multimodal Sensor Analytics Lab (Computer Lab 8, B Wing)", "faculty": "Dr. Wasim Khan" }
+},
+"Tuesday": {
+  "08:45-09:45": { "subject": "PRP TUT", "location": "501", "faculty": "Dr. Sangita Pant" },
+  "09:45-10:45": { "subject": "PRP TUT", "location": "501", "faculty": "Dr. Sangita Pant" },
+  "10:45-11:45": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Dr. Rahesha Mulla" },
+  "11:45-12:45": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Dr. Rahesha Mulla" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+  "02:35-03:30": { "subject": "FOE", "location": "501", "faculty": "Mr. Toshan Nimal Das" },
+  "03:30-04:25": { "subject": "Makers Lab" , "location": "-", "faculty": "-" }
+},
+"Wednesday": {
+  "08:45-09:45": { "subject": "DPEL", "location": "Data Processing and Analytics Lab (Computer Lab 9, B Wing)", "faculty": "Dr. Anjali Dalvi" },
+  "09:45-10:45": { "subject": "DPEL", "location": "Data Processing and Analytics Lab (Computer Lab 9, B Wing)", "faculty": "Dr. Anjali Dalvi" },
+  "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+  "11:45-12:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali More" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+  "02:35-03:30": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Dr. Rahesha Mulla" },
+  "03:30-04:25": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Dr. Rahesha Mulla" }
+},
+"Thursday": {
+  "08:45-09:45": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Prof. Geetanjali Sharma" },
+  "09:45-10:45": { "subject": "DSAL", "location": "Data Structure and Algorithm Lab (Computer Lab 4, B Wing)", "faculty": "Prof. Geetanjali Sharma" },
+  "10:45-11:45": { "subject": "OSL", "location": "Natural Language Processing Lab (Computer Lab 6, B Wing)", "faculty": "Dr. Sheetal Borhade" },
+  "11:45-12:45": { "subject": "OSL", "location": "Natural Language Processing Lab (Computer Lab 6, B Wing)", "faculty": "Dr. Sheetal Borhade" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+  "02:35-03:30": { "subject": "Library Hour", "location": "-", "faculty": "-" },
+  "03:30-04:25": { "subject": "Club Activity & Mentor Mentee Meeting", "location": "-", "faculty": "-" }
+},
+"Friday": {
+  "08:45-09:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali Dalvi" },
+  "09:45-10:45": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+  "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+  "11:45-12:45": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+  "12:45-01:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+  "01:40-02:35": { "subject": "Extended Learning Hour", "location": "-", "faculty": "-" },
+  "02:35-03:30": { "subject": "-", "location": "-", "faculty": "-" },
+  "03:30-04:25": { "subject": "-", "location": "-", "faculty": "-" },
+}
+
+            },
+            "A2":{},
+            "A3":{},
+            "B1":{
+        "Monday": {
+	  "08:45-09:45": { "subject": "AP Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Aniket Nargundkar/ Dr. Narayan Sutar" },
+          "09:45-10:45": { "subject": "AP Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Aniket Nargundkar/ Dr. Narayan Sutar" },
+          "10:45-11:45": { "subject": "HPS", "location": "602", "faculty": "Dr. Arunkumar Bongale" },
+          "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MTRX", "location": "602", "faculty": "Faculty 1" },
+          "14:35-15:30": { "subject": "BOS Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Renuka Agarwal" },
+          "15:30-16:25": { "subject": "BOS Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Renuka Agarwal" }
+        },
+        "Tuesday": {
+          "08:45-09:45": { "subject": "AP Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Sunil Chawat" },
+          "09:45-10:45": { "subject": "AP Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Sunil Chawat" },
+          "10:45-11:45": { "subject": "BOS", "location": "602", "faculty": "Dr. Renuka Agarwal" },
+          "11:45-12:45": { "subject": "IAI", "location": "602", "faculty": "Dr. Vivek Warke" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "HPS", "location": "602", "faculty": "Dr. Arunkumar Bongale" },
+          "14:35-15:30": { "subject": "Basic German/ French", "location": "602/ 601", "faculty": "Ms. Rasika Lanke/ Ms. Niralee Solanki" },
+          "15:30-16:25": { "subject": "Basic German/ French", "location": "602/ 601", "faculty": "Ms. Rasika Lanke/ Ms. Niralee Solanki" }
+        },
+        "Wednesday": {
+          "08:45-09:45": { "subject": "RCS Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Javed Sayyad/ Sunil Chawat" },
+          "09:45-10:45": { "subject": "RCS Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Javed Sayyad/ Sunil Chawat" },
+          "10:45-11:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+          "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "MTRX Lab", "location": "Electrical Lab (2nd Floor)", "faculty": "Faculty 1" },
+          "14:35-15:30": { "subject": "MTRX Lab", "location": "Electrical Lab (2nd Floor)", "faculty": "Faculty 1" },
+          "15:30-16:25": { "subject": "Placement Activity", "location": "-", "faculty": "-" }
+        },
+        "Thursday": {
+          "08:45-09:45": { "subject": "HPS Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Puneeth/ Sunil Chawat" },
+          "09:45-10:45": { "subject": "HPS Lab", "location": "Mobile Robotics Lab (A Wing)", "faculty": "Dr. Puneeth/ Sunil Chawat" },
+          "10:45-11:45": { "subject": "BOS", "location": "602", "faculty": "Dr. Renuka Agarwal" },
+          "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "-", "location": "-", "faculty": "-" },
+          "14:35-15:30": { "subject": "SSI Lab", "location": "PLC and Automotive Lab (6th Floor)", "faculty": "Visiting Faculty" },
+          "15:30-16:25": { "subject": "SSI Lab", "location": "PLC and Automotive Lab (6th Floor)", "faculty": "Visiting Faculty" }
+        },
+        "Friday": {
+          "08:45-09:45": { "subject": "IAI", "location": "602", "faculty": "Dr. Vivek Warke" },
+          "09:45-10:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+          "10:45-11:45": { "subject": "EV", "location": "602", "faculty": "Mr. Vinay Malshe" },
+          "11:45-12:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+          "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+          "13:40-14:35": { "subject": "Makers Lab", "location": "Makers Lab", "faculty": "-" },
+          "14:35-15:30": { "subject": "Makers Lab", "location": "Makers Lab", "faculty": "-" },
+          "15:30-16:25": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" }
+	    },
              "A2":{},
              "A3":{},
              "B1":{},
@@ -824,7 +929,7 @@
         },
         "MECH":{
              "A1":{
-              "Monday": {
+"Monday": {
   "08:45-09:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
   "09:45-10:45": { "subject": "ET", "location": "104", "faculty": "Dr. Anindita Roy" },
   "10:45-11:45": { "subject": "SOM", "location": "104", "faculty": "-" },
@@ -872,7 +977,7 @@
   "12:45-01:40": { "subject": "EM III Tut", "location": "-", "faculty": "Dr. Junaid Nisar" },
   "01:40-02:35": { "subject": "EM III Tut", "location": "-", "faculty": "Dr. Junaid Nisar" },
   "02:35-03:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
-  "03:30-04:25": { "subject": "Dept Meeting", "location": "-", "faculty": "-" }
+  "03:30-04:25": { "subject": "Dept Meeting", "location": "-", "faculty": "-" },
 }   
              },
              "A2":{},
