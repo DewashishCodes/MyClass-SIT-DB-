@@ -57,8 +57,118 @@
   "03:30-04:25": { "subject": "BF", "location": "D-302", "faculty": "Dr. Shilpa Hudnurkar" }
 }
              },
-             "A2":{},
-             "A3":{},
+             "A2":{
+              "Monday": {
+                        "08:45-09:45": { "subject": "Network Theory", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+                        "09:45-10:45": { "subject": "Signals and Systems", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+                        "10:45-11:45": { "subject": "Mathematical Transform Techniques Tutorial", "location": "Tutorial Room 2, 3rd Floor", "faculty": "Mathematics New Faculty" },
+                        "11:45-12:45": { "subject": "Mathematical Transform Techniques Tutorial", "location": "Tutorial Room 2, 3rd Floor", "faculty": "Mathematics New Faculty" },
+                        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+                        "13:40-14:35": { "subject": "Mathematical Transform Techniques", "location": "D-301", "faculty": "Mathematics New Faculty" },
+                        "14:35-15:30": { "subject": "Basic German", "location": "D-301", "faculty": "Ms. Rasika Lanke / Dr. Shilpa Hudnurkar" },
+                     "15:30-16:25": { "subject": "Basic German", "location": "D-301", "faculty": "Ms. Rasika Lanke / Dr. Shilpa Hudnurkar" }
+                        },
+                "Tuesday": {
+                        "08:45-09:45": { "subject": "Electronic Devices and Circuits", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+                        "09:45-10:45": { "subject": "Signals and Systems", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+                        "10:45-11:45": { "subject": "Network Theory", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+                        "11:45-12:45": { "subject": "Digital Circuits and Logic Design", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+                        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+                        "13:40-14:35": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" },
+                        "14:35-15:30": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6", "faculty": "Dr. Sumit Kumar" },
+                        "15:30-16:25": { "subject": "Digital Circuits and Logic Design Lab", "location": "L6", "faculty": "Dr. Sumit Kumar" }
+                        },
+                "Wednesday": {
+                        "08:45-09:45": { "subject": "Network Theory", "location": "D-301", "faculty": "Dr. Anurag Mahajan" },
+                        "09:45-10:45": { "subject": "Signals and Systems", "location": "D-301", "faculty": "Dr. Prasad Kantipudi" },
+                        "10:45-11:45": { "subject": "Electronic Measurements Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+                        "11:45-12:45": { "subject": "Electronic Measurements Lab", "location": "L7", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+                        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+                        "13:40-14:35": { "subject": "Electronic Devices and Circuits", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+                        "14:35-15:30": { "subject": "C++ and Data Structures", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+                        "15:30-16:25": { "subject": "C++ and Data Structures", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Priyanka Tupe-Waghmare" }
+                        },
+                "Thursday": {
+                        "08:45-09:45": { "subject": "Mathematical Transform Techniques Lab", "location": "L3", "faculty": "Mathematics New Faculty" },
+                        "09:45-10:45": { "subject": "Mathematical Transform Techniques Lab", "location": "L3", "faculty": "Mathematics New Faculty" },
+                        "10:45-11:45": { "subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+                        "11:45-12:45": { "subject": "Electronic Devices and Circuits Lab", "location": "L10", "faculty": "Dr. Chandan Kumar Choubey" },
+                        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+                        "13:40-14:35": { "subject": "Maker Lab", "location": "Maker Lab", "faculty": "-" },
+                        "14:35-15:30": { "subject": "Digital Circuits and Logic Design", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+                        "15:30-16:25": { "subject": "Mathematical Transform Techniques", "location": "D-301", "faculty": "Mathematics New Faculty" }
+                        },
+                "Friday": {
+                    "08:45-09:45": { "subject": "Digital Circuits and Logic Design", "location": "D-301", "faculty": "Dr. Sumit Kumar" },
+                    "09:45-10:45": { "subject": "Electronic Devices and Circuits", "location": "D-301", "faculty": "Dr. Chandan Kumar Choubey" },
+                    "10:45-11:45": { "subject": "C++ and Data Structures", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+                    "11:45-12:45": { "subject": "C++ and Data Structures", "location": "VLSI Lab, 3rd Floor", "faculty": "Dr. Priyanka Tupe-Waghmare" },
+                    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+                    "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+                    "14:35-15:30": { "subject": "Basic French", "location": "D-302", "faculty": "Dr. Shilpa Hudnurkar" },
+                    "15:30-16:25": { "subject": "Basic French", "location": "D-302", "faculty": "Dr. Shilpa Hudnurkar" }
+                        }
+             },
+             "A3":{
+              
+
+  "Monday": {
+    "08:45-09:45": { "subject": "NT", "location": "D-301", "faculty": " Dr Anurag Mahajan" },
+    "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr Prasad Kantipudi" },
+    "10:45-11:45": { "subject": "EML", "location": "Lab 7,3rd Floor", "faculty": "Dr Priyanka Tupe-Waghmare" },
+    "11:45-12:45": { "subject": "EML", "location": "Lab 7,3rd Floor", "faculty": "Dr Priyanka Tupe-Waghmare" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "MTT", "location": "D-301", "faculty": "MNF" },
+    "14:35-15:30": { "subject": "BG-I", "location": "D-301", "faculty": "Dr Rasika Lanke" },
+    "15:30-16:25": { "subject": "BG-I", "location": "D-301", "faculty": "Dr Rasika Lanke" }
+  },
+
+  "Tuesday": {
+    "08:45-09:45": { "subject": "EDC", "location": "D-301", "faculty": "Dr Chandan Kumar Choubey" },
+    "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr Prasad Kantipudi" },
+    "10:45-11:45": { "subject": "NT", "location": "D-301", "faculty": " Dr Anurag Mahajan" },
+    "11:45-12:45": { "subject": "DCLD", "location": "D-301", "faculty": "Dr Sumit Kumar" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Mentor -Mentee Meeting", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "CDS", "location": "VLSI Lab , 3rd Floor", "faculty": "Priyanka Tupe Waghmare" },
+    "15:30-16:25": { "subject": "CDS", "location": "VLSI Lab , 3rd Floor", "faculty": "Priyanka Tupe Waghmare" }
+  },
+
+  "Wednesday": {
+    "08:45-09:45": { "subject": "NT", "location": "D-301", "faculty": "Dr Anurag Mahajan" },
+    "09:45-10:45": { "subject": "SS", "location": "D-301", "faculty": "Dr Prasad Kantipudi" },
+    "10:45-11:45": { "subject": "DCLDL", "location": "Lab 6,3rd Floor", "faculty": "Dr Sumit Kumar" },
+    "11:45-12:45": { "subject": "DCLDL", "location": "Lab 6,3rd Floor", "faculty": "Dr Sumit Kumar" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "EDC", "location": "D-301", "faculty": "Dr Chandan Kumar Choubey" },
+    "14:35-15:30": { "subject": "MTTL", "location": "DSPL Lab ,3rd Floor", "faculty": "MNF" },
+    "15:30-16:25": { "subject": "MTTL", "location": "DSPL Lab ,3rd Floor", "faculty": "MNF" }
+  },
+
+  "Thursday": {
+    "08:45-09:45": { "subject": "EDCL", "location": "Lab 10,3rd Floor", "faculty": "Chandan Kumar Choubey" },
+    "09:45-10:45": { "subject": "EDCL", "location": "Lab 10 , 3rd Floor", "faculty": "Chandan Kumar Choubey" },
+    "10:45-11:45": { "subject": "CDS", "location": "VLSI Lab , 3rd Floor", "faculty": "Priyanka Tupe Waghmare" },
+    "11:45-12:45": { "subject": "CDS", "location": "VLSI Lab , 3rd Floor", "faculty": "Priyanka Tupe Waghmare" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "DCLD", "location": "D-301", "faculty": "Dr Sumit Kumar" },
+    "15:30-16:25": { "subject": "MTT", "location": "D-301", "faculty": "MNF" }
+  },
+
+  "Friday": {
+    "08:45-09:45": { "subject": "DCLD", "location": "D-301", "faculty": "Dr Sumit Kumar" },
+    "09:45-10:45": { "subject": "EDC", "location": "D-301", "faculty": "Dr Chandan Kumar Choubey" },
+    "10:45-11:45": { "subject": "MTTT", "location": "Tut2,3rd Floor", "faculty": "MNF" },
+    "11:45-12:45": { "subject": "MTTT", "location": "Tut2,3rd Floor", "faculty": "MNF" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Maker Lab", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "BF", "location": "D-301", "faculty": "Dr Shilpa Hudnurnkar" },
+    "15:30-16:25": { "subject": "BF", "location": "D-301", "faculty": "Dr Shilpa Hudnurnkar" }
+  }
+
+
+             },
              "B1":{
                  "Monday": {
           "08:45-09:45": { "subject": "MTT", "location": "D-302", "faculty": "Dr. Pratiksha Bhavsar" },
@@ -654,7 +764,62 @@
 
             },
             "A2":{},
-            "A3":{},
+            "A3":{
+              "Monday": {
+        "08:45-09:45": { "subject": "DSAL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "09:45-10:45": { "subject": "DSAL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "10:45-11:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+        "11:45-12:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "14:35-15:30": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "15:30-16:25": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" }
+},
+
+"Tuesday": {
+        "08:45-09:45": { "subject": "DCDSL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "09:45-10:45": { "subject": "DCDSL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "10:45-11:45": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "11:45-12:45": { "subject": "DPEL", "location": "IMAC Lab 5th Floor", "faculty": "Dr. Anjali Dalvi" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "14:35-15:30": { "subject": "FOE", "location": "TND", "faculty": "Mr. Toshan Nimai Das" },
+        "15:30-16:25": { "subject": "PRP(Tut)", "location": "502", "faculty":"Dr. Nivedita Mishra"}
+},
+
+"Wednesday": {
+        "08:45-09:45": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "09:45-10:45": { "subject": "Maker's Lab", "location": "Maker's Lab Ground Floor", "faculty": "-" },
+        "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+        "11:45-12:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali More" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "14:35-15:30": { "subject": "OSL", "location": "NLP Lab 5th Floor", "faculty": "Dr. Sheetal Borhade" },
+        "15:30-16:25": { "subject": "OSL", "location": "NLP Lab 5th Floor", "faculty": "Dr. Sheetal Borhade" }
+},
+
+"Thursday": {
+        "08:45-09:45": { "subject": "DCDSL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Wasim Khan" },
+        "09:45-10:45": { "subject": "", "location": "", "faculty": "" },
+        "10:45-11:45": { "subject": "DSAL", "location": "DSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
+        "11:45-12:45": { "subject": "", "location": "", "faculty": "" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "14:35-15:30": { "subject": "Library Hour", "location": "Library, 1st Floor", "faculty": "-" },
+        "15:30-16:25": { "subject": "Club Activity and Mentor-Mentee", "location": "-", "faculty":"-"}
+},
+
+"Friday": {
+        "08:45-09:45": { "subject": "DCDS", "location": "501", "faculty": "Dr. Anjali More" },
+        "09:45-10:45": { "subject": "OS", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+        "10:45-11:45": { "subject": "PRP", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+        "11:45-12:45": { "subject": "DSA", "location": "501", "faculty": "Suman Tanwar" },
+        "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+        "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "14:35-15:30": { "subject": "ELH", "location": "-", "faculty": "-" },
+        "15:30-16:25": { "subject": "ELH", "location": "-", "faculty": "-" }
+}
+            },
             "B1":{
                 "Monday": {
           "08:45-09:45": { "subject": "DPEL", "location": "IMAC Lab,5th Floor", "faculty": "Dr. Smita Rajendra Mahajan" },
