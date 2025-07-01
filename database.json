@@ -1506,7 +1506,58 @@
 }
             
             },
-             "A2":{},
+             "A2":{
+               "Monday": {
+    "08:45-09:45": { "subject": "Basics of Operating Systems Lab", "location": "Sensor and Microcontroller Lab (SML)", "faculty": "Dr. Renuka Agrawal" },
+    "09:45-10:45": { "subject": "Basics of Operating Systems Lab", "location": "Sensor and Microcontroller Lab (SML)", "faculty": "Dr. Renuka Agrawal" },
+    "10:45-11:45": { "subject": "Hydraulic and Pneumatic Systems", "location": "602", "faculty": "Dr. Arunkumar Bongale" },
+    "11:45-12:45": { "subject": "Robotic Control Systems", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Mechatronics", "location": "602", "faculty": "Faculty 1 " },
+    "14:35-15:30": { "subject": "Advanced Python Lab", "location": "Mobile Robotics Lab, A Wing, 6th floor", "faculty": "Dr. Vivek Warke" },
+    "15:30-16:25": { "subject": "Advanced Python Lab", "location": "Mobile Robotics Lab, A Wing, 6th floor", "faculty": "Dr. Vivek Warke" }
+  },
+  "Tuesday": {
+    "08:45-09:45": { "subject": "Robotic Control Systems Lab", "location": "Mobile Robotics Lab, A Wing, 6th floor", "faculty": "Dr. Hemanth Kumar C, Dr. Javed Sayyad" },
+    "09:45-10:45": { "subject": "Robotic Control Systems Lab", "location": "Mobile Robotics Lab, A Wing, 6th floor", "faculty": "Dr. Hemanth Kumar C, Dr. Javed Sayyad" },
+    "10:45-11:45": { "subject": "Basics of Operating Systems", "location": "602", "faculty": "Dr. Renuka Agrawal" },
+    "11:45-12:45": { "subject": "Introduction to Artificial Intelligence", "location": "602", "faculty": "Dr. Vivek Warke" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Hydraulic and Pneumatic Systems", "location": "602", "faculty": "Dr. Arunkumar Bongale" },
+    "14:35-15:30": { "subject": "Basic German/ Basic French", "location": "602/601", "faculty": "Ms. Rasika Lanke/ Ms. Niralee Solanki"},
+    "15:30-16:25": { "subject": "Basic German/ Basic French", "location": "602/601", "faculty": "Ms. Rasika Lanke/ Ms. Niralee Solanki" }
+  },
+  "Wednesday": {
+    "08:45-09:45": { "subject": "Hydraulic and Pneumatic Systems Lab", "location": "Hydraulic and Pneumatic Lab, 2nd Floor", "faculty": "Dr. Puneeth" },
+    "09:45-10:45": { "subject": "Hydraulic and Pneumatic Systems Lab", "location": "Hydraulic and Pneumatic Lab, 2nd Floor", "faculty": "Dr. Puneeth" },
+    "10:45-11:45": { "subject": "Statistics and Numerical Methods in Robotics", "location": "602", "faculty": "Dr. Sneha Gajbhiye (SG)" },
+    "11:45-12:45": { "subject": "Robotic Control Systems", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Smart Sensors and IoT Lab", "location": "PLC and Automation Lab, 6th floor", "faculty": "Visiting Faculty" },
+    "14:35-15:30": { "subject": "Smart Sensors and IoT Lab", "location": "PLC and Automation Lab, 6th floor", "faculty": "Visiting Faculty" },
+    "15:30-16:25": { "subject": "Placement Activity", "location": "-", "faculty": "-" }
+  },
+  "Thursday": {
+    "08:45-09:45": { "subject": "Advanced Python Lab", "location": "SML, MRL", "faculty": "Dr. Aniket Nargundkar/ Dr. Vivek Warke" },
+    "09:45-10:45": { "subject": "Advanced Python Lab", "location": "SML, MRL", "faculty": "Dr. Aniket Nargundkar/ Dr. Vivek Warke"  },
+    "10:45-11:45": { "subject": "Basics of Operating Systems", "location": "602", "faculty": "Dr. Renuka Agrawal" },
+    "11:45-12:45": { "subject": "Robotic Control Systems", "location": "602", "faculty": "Dr. Hemanth Kumar C" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Makers Lab", "location": "Makers Lab", "faculty": "-" },
+    "14:35-15:30": { "subject": "Placement Activity", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Placement Activity", "location": "-", "faculty": "-" }
+  },
+  "Friday": {
+    "08:45-09:45": { "subject": "Introduction to Artificial Intelligence", "location": "602", "faculty": "Dr. Vivek Warke" },
+    "09:45-10:45": { "subject": "Statistics and Numerical Methods in Robotics", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+    "10:45-11:45": { "subject": "Entrepreneurship Venture", "location": "-", "faculty": "Mr. Vinay Malshe" },
+    "11:45-12:45": { "subject": "Statistics and Numerical Methods in Robotics", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Mechatronics Lab", "location": "Electrical Lab, 2nd floor", "faculty": "Faculty 1" },
+    "14:35-15:30": { "subject": "Mechatronics Lab", "location": "Electrical Lab, 2nd floor", "faculty": "Faculty 1" },
+    "15:30-16:25": { "subject": "Mentor-Mentee Meeting", "location": "-", "faculty": "-" }
+  }
+             },
              "A3":{},
              "B1":{
               
