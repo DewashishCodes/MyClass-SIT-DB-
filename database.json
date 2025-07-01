@@ -245,7 +245,58 @@
              "A3":{},
              "B1":{},
              "B2":{},
-             "B3":{}
+             "B3":{
+                "Monday": {
+                    "8:45-9:45":{"subject": "HPS", "location": "602,6th Floor", "faculty": "Dr. Puneeth N"},
+                    "9:45-10:45":{"subject": "BOS", "location": "602,6th Floor", "faculty": "Ms Madhuri Dharrao"},
+                    "10:45-11:45":{"subject": "RCS Lab", "location": "MRL,6th Floor","faculty": "Dr. Hemanth Kumar C/Ketan Vavale"},
+                    "11:45-12:45":{"subject": "RCS Lab", "location": "MRL,6th Floor", "faculty": "Dr. Hemanth Kumar C/Ketan Vavale"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "IAI", "location": "602,6th Floor", "faculty": "Dr. Vivek Warke"},
+                    "14:35-15:35":{"subject": "RCS", "location": "602,6th Floor", "faculty": "Dr. Hemanth Kumar C"},
+                    "15:30-16:25":{"subject": "-", "location": "-", "faculty": "-"}
+                },
+                "Tuesday": {
+                    "8:45-9:45":{"subject": "IAI", "location": "602,6th Floor", "faculty": "Dr. Vivek Warke"},
+                    "9:45-10:45":{"subject": "MTRX", "location": "602,6th Floor", "faculty": "-"},
+                    "10:45-11:45":{"subject": "HPS Lab", "location": "HPS Lab,2nd Floor","faculty": "Dr. Puneeth N/Narayan Sutar"},
+                    "11:45-12:45":{"subject": "HPS Lab", "location": "HPS Lab,2nd Floor", "faculty": "Dr. Puneeth N/Narayan Sutar"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "Mentor Mentee", "location": "-", "faculty": "-"},
+                    "14:35-15:35":{"subject": "German/French", "location": "602/601,6th Floor", "faculty": "Ms Rasika Lanke/Ms Niralee Solankhi"},
+                    "15:30-16:25":{"subject": "German/French", "location": "602/601,6th Floor", "faculty": "Ms Rasika Lanke/Ms Niralee Solankhi"}
+                },
+                "Wednesday": {
+                    "8:45-9:45":{"subject": "RCS", "location": "602,6th Floor", "faculty": "Dr. Hemanth Kumar C"},
+                    "9:45-10:45":{"subject": "SNMR", "location": "602,6th Floor", "faculty": "Dr. Sneha Gajbhiye"},
+                    "10:45-11:45":{"subject": "MTRX Lab", "location": "Electrical Lab,2nd Floor","faculty": "Sunil Chawat"},
+                    "11:45-12:45":{"subject": "MTRX Lab", "location": "Electrical Lab,2nd Floor", "faculty": "Sunil Chawat"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "HPS", "location": "602,6th Floor", "faculty": "Dr. Puneeth N"},
+                    "14:35-15:35":{"subject": "AP Lab", "location": "MRL,6th Floor", "faculty": "Dr. Satish Kumar"},
+                    "15:30-16:25":{"subject": "AP Lab", "location": "MRL,6th Floor", "faculty": "Dr. Satish Kumar"}
+                },
+                "Thursday": {
+                    "8:45-9:45":{"subject": "BOS", "location": "602,6th Floor", "faculty": "Ms Madhuri Dharrao"},
+                    "9:45-10:45":{"subject": "SNMR", "location": "602,6th Floor", "faculty": "Dr. Sneha Gajbhiye"},
+                    "10:45-11:45":{"subject": "Maker's Lab", "location": "Ground Floor,near Symbieat","faculty": "Ketan Vavale"},
+                    "11:45-12:45":{"subject": "Maker's Lab", "location": "Ground Floor,near Symbieat", "faculty": "Ketan Vavale"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "EV", "location": "602,6th Floor", "faculty": "Mr. Vinay Malshe"},
+                    "14:35-15:35":{"subject": "BOS Lab", "location": "SML,6th Floor", "faculty": "Ms Madhuri Dharrao"},
+                    "15:30-16:25":{"subject": "BOS Lab", "location": "SML,6th Floor", "faculty": "Ms Madhuri Dharrao"}
+                },
+                "Friday": {
+                    "8:45-9:45":{"subject": "AP Lab", "location": "MRL,6th Floor", "faculty": "Dr. Satish Kumar"},
+                    "9:45-10:45":{"subject": "AP Lab", "location": "MRL,6th Floor", "faculty": "Dr. Satish Kumar"},
+                    "10:45-11:45":{"subject": "SSI Lab", "location": "PLCL,6th Floor","faculty": "Ketan Vavale"},
+                    "11:45-12:45":{"subject": "SSI Lab", "location": "PLCL,6th Floor", "faculty": "Ketan Vavale"},
+                    "12:45-13:40":{"subject": "Lunch", "location": "-", "faculty": "-"},
+                    "13:40-14:35":{"subject": "SNMR", "location": "602,6th Floor", "faculty": "Dr. Sneha Gajbhiye"},
+                    "14:35-15:35":{"subject": "Placement Activity", "location": "-", "faculty": "-"},
+                    "15:30-16:25":{"subject": "Placement Activity", "location": "-", "faculty": "-"}
+		        }
+             }
         },
         "MECH":{
              "A1":{},
