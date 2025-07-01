@@ -1465,7 +1465,58 @@
   "03:30-04:25": { "subject": "Dept Meeting", "location": "-", "faculty": "-" }
 }   
              },
-             "A2":{},
+             "A2":{
+              "Monday": {
+    "08:45-09:45": { "subject": "Engineering Mathematics-III", "location": "-", "faculty": "Dr. Junaid Nisar" },
+    "09:45-10:45": { "subject": "Engineering Thermodynamics", "location": "-", "faculty": "Dr. Anindita Roy" },
+    "10:45-11:45": { "subject": "Strength of Materials", "location": "104", "faculty": "-" },
+    "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Strength of Materials Lab", "location": "-", "faculty": "Dr. Ravi Sekhar" },
+    "13:40-14:35": { "subject": "Strength of Materials Lab", "location": "-", "faculty": "Dr. Ravi Sekhar" },
+    "14:35-15:30": { "subject": "Measurement and Metrology Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" },
+    "15:30-16:25": { "subject": "Measurement and Metrology Lab", "location": "MM Lab", "faculty": "Prof. Vikas Gulia" }
+  },
+  "Tuesday": {
+    "08:45-09:45": { "subject": "Strength of Materials", "location": "104", "faculty": "-" },
+    "09:45-10:45": { "subject": "Engineering Mathematics-III", "location": "-", "faculty": "Dr. Junaid Nisar" },
+    "10:45-11:45": { "subject": "Kinetics of Machines", "location": "-", "faculty": "Dr. Anindita Roy" },
+    "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Kinetics of Machines Lab", "location": "-", "faculty": "Dr. Shruti Maheshwari" },
+    "13:40-14:35": { "subject": "Kinetics of Machines Lab", "location": "-", "faculty": "Dr. Shruti Maheshwari" },
+    "14:35-15:30": { "subject": "Mech_2nd 2024-28", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Mech_2nd 2024-28", "location": "-", "faculty": "-" }
+  },
+  "Wednesday": {
+    "08:45-09:45": { "subject": "Engineering Thermodynamics", "location": "-", "faculty": "Dr. Anindita Roy" },
+    "09:45-10:45": { "subject": "Kinetics of Machines", "location": "AR", "faculty": "Dr. Anindita Roy" },
+    "10:45-11:45": { "subject": "Engineering Materials and Metallurgy", "location": "104", "faculty": "Dr. Shahid Tamboli" },
+    "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Measurement and Metrology Lab", "location": "RAC Lab", "faculty": "Prof. Vikas Gulia" },
+    "13:40-14:35": { "subject": "Measurement and Metrology Lab", "location": "RAC Lab", "faculty": "Prof. Vikas Gulia" },
+    "14:35-15:30": { "subject": "-", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "-", "location": "-", "faculty": "-" }
+  },
+  "Thursday": {
+    "08:45-09:45": { "subject": "Kinetics of Machines", "location": "-", "faculty": "Dr. Anindita Roy" },
+    "09:45-10:45": { "subject": "Engineering Materials and Metallurgy", "location": "-", "faculty": "Dr. Shahid Tamboli" },
+    "10:45-11:45": { "subject": "Engineering Thermodynamics", "location": "-", "faculty": "Dr. Anindita Roy" },
+    "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Engineering Mathematics-III Tutorial", "location": "-", "faculty": "Dr. Junaid Nisar" },
+    "13:40-14:35": { "subject": "Engineering Mathematics-III Tutorial", "location": "-", "faculty": "Dr. Junaid Nisar" },
+    "14:35-15:30": { "subject": "German / Spanish / French", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "German / Spanish / French", "location": "-", "faculty": "-" }
+  },
+  "Friday": {
+    "08:45-09:45": { "subject": "Engineering Materials and Metallurgy", "location": "-", "faculty": "Dr. Shahid Tamboli" },
+    "09:45-10:45": { "subject": "Strength of Materials", "location": "104", "faculty": "-" },
+    "10:45-11:45": { "subject": "Entrepreneurship Venture", "location": "104", "faculty": "Mr. Vinay Mahshe" },
+    "11:45-12:45": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Engineering Thermodynamics Lab", "location": "-", "faculty": "Prof. Sreelekha Arun" },
+    "13:40-14:35": { "subject": "Engineering Thermodynamics Lab", "location": "-", "faculty": "Prof. Vikas Gulia" },
+    "14:35-15:30": { "subject": "Mentor Mentee", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Department Meeting", "location": "-", "faculty": "-" }
+  }
+             },
              "A3":{
               "Monday": {
             "08:45-09:45": { "subject": "EM III", "location": "104", "faculty": "Dr. Junaid Nisar" },
