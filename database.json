@@ -872,7 +872,63 @@
         "RNA":{
             "A1":{},
              "A2":{},
-             "A3":{},
+             "A3":{
+            "Monday": {
+            "08:45-09:45": { "subject": "MTRX Lab", "location": " Electrical Lab (2nd floor)", "faculty": "Sunil Chawat" },
+            "09:45-10:45": { "subject": "MTRX Lab", "location": " Electrical Lab (2nd floor)", "faculty": "Sunil Chawat" },
+            "10:45-11:45": {"subject": "HPS", "location": "602", "faculty": "Dr. Arunkumar Bongale (AB)" },
+            "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemant Kumar C" },
+            "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "13:40-14:35": { "subject": "MTRX", "location": "", "faculty": "Sunil Chawat" },
+            "14:35-15:30": { "subject": " SSI Lab", "location": " PLC and Automation Lab 6th floor", "faculty": "K Vavale" },
+            "15:30-16:25": { "subject": " SSI Lab", "location": " PLC and Automation Lab 6th floor", "faculty": "K Vavale" }
+},
+
+            "Tuesday": {
+            "08:45-09:45": { "subject": " HPS lab ", "location": " Hydraulic and Pneumatic lab (2nd floor) ", "faculty": "Dr. Puneeth" },
+            "09:45-10:45": { "subject": " HPS lab ", "location": " Hydraulic and Pneumatic lab (2nd floor) ", "faculty": "Dr. Puneeth" },
+            "10:45-11:45": { "subject": "BOS", "location": "602", "faculty": "Dr. Renuka Agrawal" },
+            "11:45-12:45": { "subject": "IAI", "location": "602", "faculty": " Dr. Vivek Warke (VW)" },
+            "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "13:40-14:35": { "subject": "HPS", "location": "602", "faculty": "Dr. Arunkumar Bongale (AB)" },
+            "14:35-15:30": { "subject": "German/French", "location": "602/601", "faculty": "Ms Rasika Lanke/Ms Niralee Solankhi" },
+            "15:30-16:25": { "subject": "German/French", "location": "602/601", "faculty": "Ms Rasika Lanke/Ms Niralee Solankhi" }
+},
+
+"           Wednesday": {
+            "08:45-09:45": { "subject": "AP Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Vivek Warke" },
+            "09:45-10:45": { "subject": "AP Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Vivek Warke" },
+            "10:45-11:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+            "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemant Kumar C" },
+            "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "13:40-14:35": { "subject": "Maker's Lab", "location": "Maker,s Lab", "faculty": "Pradeep Satar" },
+            "14:35-15:30": { "subject": "Maker's Lab", "location": "Maker,s Lab", "faculty": "Pradeep Satar" },
+            "15:30-16:25": { "subject": "Placement Activity", "location": "-", "faculty": "-" }
+},
+
+            "Thursday": {
+            "08:45-09:45": { "subject": " RCS Lab", "location": " Mobile Robotics Lab A wing", "faculty": "Dr. Javed Sayyad" },
+            "09:45-10:45": { "subject": " RCS Lab", "location": " Mobile Robotics Lab A wing", "faculty": "Dr. Javed Sayyad" },
+            "10:45-11:45": { "subject": "BOS", "location": "602", "faculty": "Dr. Renuka Agrawal" },
+            "11:45-12:45": { "subject": "RCS", "location": "602", "faculty": "Dr. Hemant Kumar C" },
+            "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+            "14:35-15:30": { "subject": "BOS Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Renuka Agrawal" },
+            "15:30-16:25": { "subject": "BOS Lab", "location": "Sensor and Microcontroller Lab", "faculty": "Dr. Renuka Agrawal" }
+},
+
+            "Friday": {
+            "08:45-09:45": { "subject": "IAI", "location": "602", "faculty": " Dr. Vivek Warke (VW)" },
+            "09:45-10:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+            "10:45-11:45": { "subject": "", "location": "", "faculty": "" },
+            "11:45-12:45": { "subject": "SNMR", "location": "602", "faculty": "Dr. Sneha Gajbhiye" },
+            "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+            "13:40-14:35": { "subject": "EV", "location": "-", "faculty": "Mr. Vinay Malshe" },
+            "14:35-15:30": { "subject": "AP Lab", "location": " Mobile Robotics Lab A wing", "faculty": "Dr. Vivek Warke" },
+            "15:30-16:25": { "subject": "AP Lab", "location": " Mobile Robotics Lab A wing", "faculty": "Dr. Vivek Warke" }
+}
+
+             },
              "B1":{},
              "B2":{},
              "B3":{}
