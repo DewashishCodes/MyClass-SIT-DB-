@@ -1666,7 +1666,61 @@
   "15:30-16:25": { "subject": "SSI Lab", "location": "PLC and Automation Lab (6th Floor)", "faculty": "Visiting Faculty" }     
 	     }
              },
-             "B2":{},
+             "B2":{
+              "Monday" : {
+    "08:45-09:45": { "subject": "HPS", "location": "602", "faculty": "Dr Punith" },
+    "09:45-10:45": { "subject": "BOS", "location": "602" , "faculty": "Ms Madhuri Dhanrrao" },
+    "10:45-11:45": { "subject": "HPS lab", "location": "HPS lab,2nd Floor", "faculty": "Dr Punith" },
+    "11:45-12:45": { "subject": "HPS lab", "location": "HPS lab,2nd Floor", "faculty": "Dr Punith" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty":"-" },
+    "13:40-14:35": { "subject": "IAI", "location": "601",  "faculty": "Dr Vivek Warke" },
+    "14:35-15:30": { "subject": "RCS", "location": "602", "faculty": "Dr Hemanth Kumar C" },
+    "15:30-16:25": { "subject": "-", "location": "-", "faculty": "-" }
+  },
+
+"Tuesday": {
+    "08:45-09:45": { "subject": "IAI", "location": "602", "faculty": "Dr Vivek Warke" },
+    "09:45-10:45": { "subject": "MTRX", "location": "602", "faculty": "F1" },
+    "10:45-11:45": { "subject": "Maker's Lab", "location": "-", "faculty": "-" },
+    "11:45-12:45": { "subject": "Maker's Lab", "location": "-", "faculty": "-" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Mentor Mentee Meeting", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "German/French", "location": "602", "faculty": "Dr Rasika Lanke/Ms Niralee Solankhe" },
+    "15:30-16:25": { "subject": "German/French", "location": "602", "faculty": "Dr Rasika Lanke/Ms Niralee Solankhe" }
+  },
+"Wednesday": {
+    "08:45-09:45": { "subject": "RCS", "location": "602", "faculty": "Dr Hemanth Kumar C" },
+    "09:45-10:45": { "subject": "SNMR", "location": "602", "faculty": "Dr Sneha Gajbhiye" },
+    "10:45-11:45": { "subject": "SSI Lab", "location": "PLC and Automation Lab,6th Floor", "faculty": "Visiting Faculty" },
+    "11:45-12:45": { "subject": "SSI Lab", "location": "PLC and Automation Lab,6th Floor", "faculty": "Visiting Faculty" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "HPS", "location": "602", "faculty": "Dr Punith" },
+    "14:35-15:30": { "subject": "BOS Lab", "location": "Sensor and Microcontroller lab", "faculty": "Ms Madhuri Dhanrrao" },
+    "15:30-16:25": { "subject": "BOS Lab", "location": "Sensor and Microcontroller lab", "faculty": "Ms Madhuri Dhanrrao" }
+},
+
+"Thursday": {
+    "08:45-09:45": { "subject": "BOS", "location": "602" , "faculty": "Ms Madhuri Dhanrrao" },
+    "09:45-10:45": { "subject": "SNMR", "location": "602", "faculty": "Dr Sneha Gajbhiye" },
+    "10:45-11:45": { "subject": "AP Lab", "location": "SML/MRL", "faculty": "Dr Rajesh Bisne/Dr Satish Kumar" },
+    "11:45-12:45": { "subject": "AP Lab", "location": "SML/MRL", "faculty": "Dr Rajesh Bisne/Dr Satish Kumar" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "EV", "location": "602", "faculty": "Mr Vinay Malshe" },
+    "14:35-15:30": { "subject": "Placement Activity", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Placement Activity", "location": "-", "faculty": "-" }
+},
+
+"Friday": {
+    "08:45-09:45": { "subject": "RCS Lab", "location": "Mobile Robotics Lab A wing,6th Floor", "faculty":"Dr Hemanth Kumar C" },
+    "09:45-10:45": { "subject": "RCS Lab", "location": "Mobile Robotics Lab A wing,6th Floor", "faculty":"Dr Hemanth Kumar C" },
+    "10:45-11:45": { "subject": "MTRX Lab", "location": "Electrical Lab,2nd Floor", "faculty": "Faculty 1" },
+    "11:45-12:45": {"subject" : "MTRX Lab", "location": "Electrical Lab,2nd Floor", "faculty": "Faculty 1" },
+    "12:45-13:40": { "subject": "Break", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "SNMR", "location": "602", "faculty": "Dr Sneha Gajbhiye" },
+    "14:35-15:30": { "subject": "AP Lab", "location": "SML/MRL", "faculty": "Dr Rajesh Bisne/Dr Satish Kumar" },
+    "15:30-16:25": { "subject": "AP Lab", "location": "SML/MRL", "faculty": "Dr Rajesh Bisne/Dr Satish Kumar" }
+}
+             },
              "B3":{
               "Monday": {
                     "8:45-9:45":{"subject": "HPS", "location": "602,6th Floor", "faculty": "Dr. Puneeth N"},
