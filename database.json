@@ -972,7 +972,58 @@
 }
 
             },
-            "A2":{},
+            "A2":{
+              "Monday": {
+    "08:45-09:45": { "subject": "Probability and Random Processes Tutorial", "location": "504", "faculty": "Dr. Anjali More" },
+    "09:45-10:45": { "subject": "Probability and Random Processes Tutorial", "location": "504", "faculty": "Dr. Anjali More" },
+    "10:45-11:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+    "11:45-12:45": { "subject": "Design Thinking", "location": "501", "faculty": "Dr. Bhavna Ambudkar" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Data Structures and Algorithms", "location": "501", "faculty": "Suman Tanwar" },
+    "14:35-15:30": { "subject": "Data Structures and Algorithms Lab ", "location": "CL-04, B wing, 5th floor", "faculty": "Prof. Geetanjali Sharma" },
+    "15:30-16:25": { "subject": "Data Structures and Algorithms Lab ", "location": "CL-04, B wing, 5th floor", "faculty": "Prof. Geetanjali Sharma" }
+  },
+  "Tuesday": {
+    "08:45-09:45": { "subject": "Data Processing and Exploratory Data Analysis Lab", "location": "CL-09, B wing, 5th floor", "faculty": "AMB" },
+    "09:45-10:45": { "subject": "Data Processing and Exploratory Data Analysis Lab", "location": "CL-09, B wing, 5th floor", "faculty": "AMB" },
+    "10:45-11:45": { "subject": "Operating Systems Lab (Flexi Course)", "location": "CL-06, B wing, 5th floor", "faculty": "Dr. Sheetal Borhade" },
+    "11:45-12:45": { "subject": "Operating Systems Lab (Flexi Course)", "location": "CL-06, B wing, 5th floor", "faculty": "Dr. Sheetal Borhade" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Operating Systems", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+    "14:35-15:30": { "subject": "Foundation of Ethics", "location": "501", "faculty": "Mr. Toshan Nimai Das" },
+    "15:30-16:25": { "subject": "Makers Lab", "location": "Makers Lab", "faculty": "-" }
+  },
+  "Wednesday": {
+    "08:45-09:45": { "subject": "Database Concepts for Data Science Lab", "location": "CL-08, B wing, 5th floor", "faculty": "Dr. Wasim Khan" },
+    "09:45-10:45": { "subject": "Database Concepts for Data Science Lab", "location": "CL-08, B wing, 5th floor", "faculty": "Dr. Wasim Khan" },
+    "10:45-11:45": { "subject": "Probability and Random Processes", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+    "11:45-12:45": { "subject": "Database Concepts for Data Science", "location": "501", "faculty": "Dr. Anjali Dalvi" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Data Structures and Algorithms", "location": "501", "faculty": "Suman Tanwar" },
+    "14:35-15:30": { "subject": "Data Processing and Exploratory Data Analysis Lab", "location": "CL-06, B wing, 5th floor", "faculty": "AMB" },
+    "15:30-16:25": { "subject": "Data Processing and Exploratory Data Analysis Lab", "location": "CL-06, B wing, 5th floor", "faculty": "AMB" }
+  },
+  "Thursday": {
+    "08:45-09:45": { "subject": "Data Structures and Algorithms Lab ", "location": "CL-04, B wing, 5th floor", "faculty": "Prof. Geetanjali Sharma" },
+    "09:45-10:45": { "subject": "Data Structures and Algorithms Lab ", "location": "CL-04, B wing, 5th floor", "faculty": "Prof. Geetanjali Sharma" },
+    "10:45-11:45": { "subject": "Database Concepts for Data Science Lab", "location": "CL-09, B wing, 5th floor", "faculty": "Dr. Wasim Khan" },
+    "11:45-12:45": { "subject": "Database Concepts for Data Science Lab", "location": "CL-09,B wing, 5th floor", "faculty": "Dr. Wasim Khan" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "Operating Systems", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+    "14:35-15:30": { "subject": "Library Hour ", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "Club Activity and Mentor-Mentee Meeting", "location": "-", "faculty": "-" }
+  },
+  "Friday": {
+    "08:45-09:45": { "subject": "Database Concepts for Data Science", "location": "501", "faculty": "Dr. Anjali Dalvi" },
+    "09:45-10:45": { "subject": "Operating Systems", "location": "501", "faculty": "Dr. Sheetal Borhade" },
+    "10:45-11:45": { "subject": "Probability and Random Processes", "location": "501", "faculty": "Dr. Nivedita Mishra" },
+    "11:45-12:45": { "subject": "Data Structures and Algorithms", "location": "501", "faculty": "Suman Tanwar" },
+    "12:45-13:40": { "subject": "Lunch", "location": "-", "faculty": "-" },
+    "13:40-14:35": { "subject": "ELH", "location": "-", "faculty": "-" },
+    "14:35-15:30": { "subject": "-", "location": "-", "faculty": "-" },
+    "15:30-16:25": { "subject": "-", "location": "-", "faculty": "-" }
+  }
+            },
             "A3":{
               "Monday": {
         "08:45-09:45": { "subject": "DSAL", "location": "MSA Lab 5th Floor", "faculty": "Dr. Rahesha Mulla" },
